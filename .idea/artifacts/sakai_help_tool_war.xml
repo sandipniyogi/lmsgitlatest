@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-help-tool:war">
+    <output-path>$PROJECT_DIR$/help/help-tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-help-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-help-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-help-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

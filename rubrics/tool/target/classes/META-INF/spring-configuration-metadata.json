@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.sakaiproject.rubrics.RubricsConfiguration",
+      "name": "rubrics",
+      "type": "org.sakaiproject.rubrics.RubricsConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.sakaiproject.rubrics.RubricsConfiguration",
+      "name": "rubrics.instance",
+      "type": "org.sakaiproject.rubrics.RubricsInstanceConfiguration"
+    }
+  ]
+}

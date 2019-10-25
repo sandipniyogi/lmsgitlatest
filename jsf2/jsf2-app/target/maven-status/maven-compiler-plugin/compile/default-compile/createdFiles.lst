@@ -1,0 +1,5 @@
+org/sakaiproject/jsf2/app/SakaiNavigationHandler.class
+org/sakaiproject/jsf2/app/MessageSaver.class
+org/sakaiproject/jsf2/app/SakaiVariableResolver.class
+org/sakaiproject/jsf2/app/SakaiPhaseListener.class
+org/sakaiproject/jsf2/app/SakaiViewHandler.class

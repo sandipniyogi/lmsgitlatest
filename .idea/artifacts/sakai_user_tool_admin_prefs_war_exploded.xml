@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sakai-user-tool-admin-prefs:war exploded">
+    <output-path>$PROJECT_DIR$/user/user-tool-admin-prefs/admin-prefs/target/sakai-user-tool-admin-prefs-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>sakai-user-tool-admin-prefs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sakai-user-tool-admin-prefs" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="archive" name="jsf-widgets-sun-depend-19.2.pom">
+            <element id="module-output" name="jsf-widgets-sun-depend" />
+          </element>
+          <element id="archive" name="jsf-widgets-sun-19.2.jar">
+            <element id="module-output" name="jsf-widgets-sun" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.faces:jsf-impl:1.1_02" />
+          <element id="archive" name="jsf-widgets-19.2.jar">
+            <element id="module-output" name="jsf-widgets" />
+          </element>
+          <element id="archive" name="sakai-portal-util-19.2.jar">
+            <element id="module-output" name="sakai-portal-util" />
+          </element>
+          <element id="archive" name="jsf-tool-19.2.jar">
+            <element id="module-output" name="jsf-tool" />
+          </element>
+          <element id="archive" name="jsf-app-19.2.jar">
+            <element id="module-output" name="jsf-app" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.faces:jsf-api:1.1_02" />
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:1.6" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.7.0" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.0.4" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/user/user-tool-admin-prefs/admin-prefs/target/sakai-user-tool-admin-prefs-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sakai-user-tool-admin-prefs/web/Web" />
+    </root>
+  </artifact>
+</component>

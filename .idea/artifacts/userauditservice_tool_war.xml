@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="userauditservice-tool:war">
+    <output-path>$PROJECT_DIR$/userauditservice/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>userauditservice-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="userauditservice-tool-19.2.war">
+      <element id="artifact" artifact-name="userauditservice-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

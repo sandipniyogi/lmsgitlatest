@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-site-manage-tool:war">
+    <output-path>$PROJECT_DIR$/site-manage/site-manage-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-site-manage-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-site-manage-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-site-manage-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

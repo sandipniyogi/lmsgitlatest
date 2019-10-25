@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="authn:war">
+    <output-path>$PROJECT_DIR$/login/login-authn-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>authn</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="authn-19.2.war">
+      <element id="artifact" artifact-name="authn:war exploded" />
+    </root>
+  </artifact>
+</component>

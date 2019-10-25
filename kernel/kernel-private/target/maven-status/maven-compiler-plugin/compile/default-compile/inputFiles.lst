@@ -1,0 +1,16 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/hibernate/HibernateUtils.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/serialization/SerializableRepository.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/hibernate/CrudRepository.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/impl/AdditionalHibernateMappingsImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/type/InstantType.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/hibernate/AssignableUUIDGenerator.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/type/InstantTypeDescriptor.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/id/hbm/IdGenerator.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/SakaiPersistenceUnitManager.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/hibernate/HibernateCriterionUtils.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/AdditionalHibernateMappings.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/AddablePersistenceUnit.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/springframework/orm/hibernate/SakaiIdentifierGeneratorProvider.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/serialization/BasicSerializableRepository.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/hibernate/HibernateCrudRepository.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/kernel/kernel-private/src/main/java/org/sakaiproject/hibernate/Repository.java

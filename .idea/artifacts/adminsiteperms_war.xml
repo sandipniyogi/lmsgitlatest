@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="adminsiteperms:war">
+    <output-path>$PROJECT_DIR$/site/admin-perms-tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>adminsiteperms</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="adminsiteperms.war">
+      <element id="artifact" artifact-name="adminsiteperms:war exploded" />
+    </root>
+  </artifact>
+</component>

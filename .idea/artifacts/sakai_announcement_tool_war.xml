@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-announcement-tool:war">
+    <output-path>$PROJECT_DIR$/announcement/announcement-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-announcement-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-announcement-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-announcement-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

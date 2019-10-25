@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="profile2-tool:war">
+    <output-path>$PROJECT_DIR$/profile2/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>profile2-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="profile2-tool-19.2.war">
+      <element id="artifact" artifact-name="profile2-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

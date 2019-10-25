@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="access:war">
+    <output-path>$PROJECT_DIR$/access/access-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>access</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="access-19.2.war">
+      <element id="artifact" artifact-name="access:war exploded" />
+    </root>
+  </artifact>
+</component>

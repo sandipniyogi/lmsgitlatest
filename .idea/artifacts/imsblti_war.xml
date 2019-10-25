@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imsblti:war">
+    <output-path>$PROJECT_DIR$/basiclti/basiclti-portlet/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>imsblti</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="imsblti-19.2.war">
+      <element id="artifact" artifact-name="imsblti:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+org/sakaiproject/mbm/ThymeleafConfig.class
+org/sakaiproject/mbm/WebAppConfiguration.class
+org/sakaiproject/mbm/tool/entities/SearchEntity.class
+org/sakaiproject/mbm/tool/entities/ModulesFilterEntity.class
+org/sakaiproject/mbm/tool/MainController.class
+org/sakaiproject/mbm/tool/entities/MessageEntity.class

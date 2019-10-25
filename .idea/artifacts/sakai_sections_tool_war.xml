@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-sections-tool:war">
+    <output-path>$PROJECT_DIR$/sections/sections-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-sections-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-sections-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-sections-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

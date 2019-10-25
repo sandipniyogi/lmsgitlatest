@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tags-tool:war">
+    <output-path>$PROJECT_DIR$/tags/tags-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tags-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tags-tool-19.2.war">
+      <element id="artifact" artifact-name="tags-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

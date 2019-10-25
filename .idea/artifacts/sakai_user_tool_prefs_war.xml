@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-user-tool-prefs:war">
+    <output-path>$PROJECT_DIR$/user/user-tool-prefs/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-user-tool-prefs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-user-tool-prefs-19.2.war">
+      <element id="artifact" artifact-name="sakai-user-tool-prefs:war exploded" />
+    </root>
+  </artifact>
+</component>

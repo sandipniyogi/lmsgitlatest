@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="content-review-tool:war">
+    <output-path>$PROJECT_DIR$/content-review/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>content-review-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="content-review-tool-19.2.war">
+      <element id="artifact" artifact-name="content-review-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

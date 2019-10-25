@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="feedback-tool:war">
+    <output-path>$PROJECT_DIR$/feedback/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>feedback-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="feedback-tool-19.2.war">
+      <element id="artifact" artifact-name="feedback-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="polls-tool:war">
+    <output-path>$PROJECT_DIR$/polls/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>polls-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="polls-tool-19.2.war">
+      <element id="artifact" artifact-name="polls-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

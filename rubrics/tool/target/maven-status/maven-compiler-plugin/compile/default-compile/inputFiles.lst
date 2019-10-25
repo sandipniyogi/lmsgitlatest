@@ -1,0 +1,17 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/JwtAuthenticationSuccessHandler.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/RubricsInstanceConfiguration.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/JwtAuthenticationEntryPoint.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/controller/ResourceCopyController.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/controller/MainController.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/JwtAuthenticationProvider.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/RubricsConfiguration.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/JwtTokenUtil.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/exception/JwtTokenMissingException.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/exception/JwtTokenMalformedException.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/RubricsApplication.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/SecurityConfig.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/JwtAuthenticationTokenFilter.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/CustomMethodSecurityExpressionHandler.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/AppRepositoryRestConfiguration.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/security/CustomMethodSecurityExpressionRoot.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/rubrics/tool/src/main/java/org/sakaiproject/rubrics/controller/TranslationsController.java

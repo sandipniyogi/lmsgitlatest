@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-site-pageorder-helper:war">
+    <output-path>$PROJECT_DIR$/site-manage/pageorder/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-site-pageorder-helper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-site-pageorder-helper-19.2.war">
+      <element id="artifact" artifact-name="sakai-site-pageorder-helper:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-message-bundle-manager-tool:war">
+    <output-path>$PROJECT_DIR$/site/sakai-message-bundle-manager-tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-message-bundle-manager-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-message-bundle-manager-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-message-bundle-manager-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

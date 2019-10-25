@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myconnections:war">
+    <output-path>$PROJECT_DIR$/myconnections/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>myconnections</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="myconnections-19.2.war">
+      <element id="artifact" artifact-name="myconnections:war exploded" />
+    </root>
+  </artifact>
+</component>

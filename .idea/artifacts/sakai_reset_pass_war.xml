@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-reset-pass:war">
+    <output-path>$PROJECT_DIR$/reset-pass/reset-pass/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-reset-pass</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-reset-pass-19.2.war">
+      <element id="artifact" artifact-name="sakai-reset-pass:war exploded" />
+    </root>
+  </artifact>
+</component>

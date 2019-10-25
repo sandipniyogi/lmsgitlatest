@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="providers:war">
+    <output-path>$PROJECT_DIR$/entitybroker/core-providers/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>providers</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="providers-19.2.war">
+      <element id="artifact" artifact-name="providers:war exploded" />
+    </root>
+  </artifact>
+</component>

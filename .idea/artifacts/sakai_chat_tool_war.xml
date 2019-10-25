@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-chat-tool:war">
+    <output-path>$PROJECT_DIR$/chat/chat-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-chat-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-chat-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-chat-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

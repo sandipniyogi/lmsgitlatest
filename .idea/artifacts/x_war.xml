@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="x:war">
+    <output-path>$PROJECT_DIR$/shortenedurl/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>x</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="x-19.2.war">
+      <element id="artifact" artifact-name="x:war exploded" />
+    </root>
+  </artifact>
+</component>

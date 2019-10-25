@@ -1,0 +1,10 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/BaseHibernateManager.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/VersionedExternalizable.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookDefinition.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookFrameworkServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/AuthnSakai2Impl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sections/AuthzSectionsImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookServiceHibernateImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookExternalAssessmentServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/component/gradebook/GradebookPermissionServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/AuthzSakai2Impl.java

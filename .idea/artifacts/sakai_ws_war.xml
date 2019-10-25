@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-ws:war">
+    <output-path>$PROJECT_DIR$/webservices/cxf/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-ws</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-ws-19.2.war">
+      <element id="artifact" artifact-name="sakai-ws:war exploded" />
+    </root>
+  </artifact>
+</component>

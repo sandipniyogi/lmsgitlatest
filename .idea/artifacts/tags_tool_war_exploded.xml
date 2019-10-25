@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tags-tool:war exploded">
+    <output-path>$PROJECT_DIR$/tags/tags-tool/tool/target/tags-tool-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>tags-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tags-tool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.github.jknack:handlebars:2.1.0" />
+          <element id="library" level="project" name="Maven: org.antlr:antlr4-runtime:4.5" />
+          <element id="library" level="project" name="Maven: org.mozilla:rhino:1.7R4" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.8.1" />
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tags/tags-tool/tool/target/tags-tool-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tags-tool/web/Web" />
+    </root>
+  </artifact>
+</component>

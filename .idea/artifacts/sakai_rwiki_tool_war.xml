@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-rwiki-tool:war">
+    <output-path>$PROJECT_DIR$/rwiki/rwiki-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-rwiki-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-rwiki-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-rwiki-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-postem-tool:war">
+    <output-path>$PROJECT_DIR$/postem/postem-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-postem-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-postem-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-postem-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

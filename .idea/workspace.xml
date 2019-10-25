@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2fcecfa-947b-48e1-addf-77ce05581e34" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/webcomponents/src/main/frontend/node_modules/" />
+    <ignored path="$PROJECT_DIR$/textarea/FCKeditor/connector/target/" />
+    <ignored path="$PROJECT_DIR$/reset-pass/account-validator-tool/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/oauth/impl/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-app/target/" />
+    <ignored path="$PROJECT_DIR$/mycalendar/target/" />
+    <ignored path="$PROJECT_DIR$/polls/api/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-parsers/blackboard_6/api/target/" />
+    <ignored path="$PROJECT_DIR$/providers/federating/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/cm-service/cm-impl/hibernate-impl/hibernate/target/" />
+    <ignored path="$PROJECT_DIR$/master/target/" />
+    <ignored path="$PROJECT_DIR$/webservices/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/jsf2-widgets-sun/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/portlet-util/target/" />
+    <ignored path="$PROJECT_DIR$/site/admin-perms-tool/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/jsf2-tool-sun/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/rubrics/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/web-ifp/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-spreadsheet/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-model/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/web/web-portlet/target/" />
+    <ignored path="$PROJECT_DIR$/rsf/sakai-rsf-web/target/" />
+    <ignored path="$PROJECT_DIR$/courier/courier-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/target/" />
+    <ignored path="$PROJECT_DIR$/mailsender/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-util/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-chat/tool/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/shortenedurl/tool/target/" />
+    <ignored path="$PROJECT_DIR$/rubrics/tool/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-events-model/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/jsf2-widgets/target/" />
+    <ignored path="$PROJECT_DIR$/providers/allhands/target/" />
+    <ignored path="$PROJECT_DIR$/textarea/calendar/target/" />
+    <ignored path="$PROJECT_DIR$/common/common-composite-component/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-render-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/taggable/taggable-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-metadata/impl/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-component-shared/target/" />
+    <ignored path="$PROJECT_DIR$/sitestats/sitestats-tool/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/core-providers/target/" />
+    <ignored path="$PROJECT_DIR$/help/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-impl/target/" />
+    <ignored path="$PROJECT_DIR$/tags/tags-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/kernel-util/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/myfaces-widgets-depend/target/" />
+    <ignored path="$PROJECT_DIR$/postem/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-resource/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-widgets-sun-depend/target/" />
+    <ignored path="$PROJECT_DIR$/presence/presence-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/emailtemplateservice/api/target/" />
+    <ignored path="$PROJECT_DIR$/commons/tool/target/" />
+    <ignored path="$PROJECT_DIR$/access/access-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/delegatedaccess/impl/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/scoring-service/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-participant-helper/target/" />
+    <ignored path="$PROJECT_DIR$/external-calendaring-service/impl/target/" />
+    <ignored path="$PROJECT_DIR$/lessonbuilder/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-cleanup/content-cleanup-impl/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/sections/sections-app/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-copyright/api/target/" />
+    <ignored path="$PROJECT_DIR$/polls/impl/target/" />
+    <ignored path="$PROJECT_DIR$/signup/impl/target/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-impl/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/config/localization/bundles/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-types/target/" />
+    <ignored path="$PROJECT_DIR$/userauditservice/target/" />
+    <ignored path="$PROJECT_DIR$/emailtemplateservice/target/" />
+    <ignored path="$PROJECT_DIR$/help/help-api/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/common/archive-api/target/" />
+    <ignored path="$PROJECT_DIR$/presence/presence-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/rsf/sakai-rsf-web/evolvers/target/" />
+    <ignored path="$PROJECT_DIR$/userauditservice/impl/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-parsers/blackboard_6/impl/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/turnitin-oc/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/scoring-service/impl/target/" />
+    <ignored path="$PROJECT_DIR$/sitestats/sitestats-impl/target/" />
+    <ignored path="$PROJECT_DIR$/message/target/" />
+    <ignored path="$PROJECT_DIR$/hierarchy/target/" />
+    <ignored path="$PROJECT_DIR$/providers/openldap/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-util/radeox/target/" />
+    <ignored path="$PROJECT_DIR$/syllabus/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/urkund/target/" />
+    <ignored path="$PROJECT_DIR$/presence/target/" />
+    <ignored path="$PROJECT_DIR$/emailtemplateservice/tool/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-group-helper/tool/target/" />
+    <ignored path="$PROJECT_DIR$/common/privacy-comp-impl/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/pack/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-util/target/" />
+    <ignored path="$PROJECT_DIR$/message/message-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-render-engine-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/assignment/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-tool/target/" />
+    <ignored path="$PROJECT_DIR$/providers/kerberos/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-impl/target/" />
+    <ignored path="$PROJECT_DIR$/courier/courier-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/common/impl/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-cleanup/target/" />
+    <ignored path="$PROJECT_DIR$/polls/target/" />
+    <ignored path="$PROJECT_DIR$/rsf/sakai-rsf-web/templates/target/" />
+    <ignored path="$PROJECT_DIR$/lessonbuilder/hbm/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/gradebook-service/impl/target/" />
+    <ignored path="$PROJECT_DIR$/access/access-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/presence/presence-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-link-helper/target/" />
+    <ignored path="$PROJECT_DIR$/providers/cm-authz-provider/target/" />
+    <ignored path="$PROJECT_DIR$/delegatedaccess/target/" />
+    <ignored path="$PROJECT_DIR$/msgcntr/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-osid/web2bridge/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/target/" />
+    <ignored path="$PROJECT_DIR$/user/user-tool-prefs/tool/target/" />
+    <ignored path="$PROJECT_DIR$/shortenedurl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-servlet/servlet/target/" />
+    <ignored path="$PROJECT_DIR$/profile2/api/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-render-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/courier/courier-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/profile2/tool/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/rest/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/sections-service/sections-impl/sakai/model/target/" />
+    <ignored path="$PROJECT_DIR$/endorsed/i18n/target/" />
+    <ignored path="$PROJECT_DIR$/postem/postem-app/target/" />
+    <ignored path="$PROJECT_DIR$/webservices/cxf/target/" />
+    <ignored path="$PROJECT_DIR$/help/help-tool/target/" />
+    <ignored path="$PROJECT_DIR$/reset-pass/account-validator-impl/target/" />
+    <ignored path="$PROJECT_DIR$/emailtemplateservice/impl/logic/target/" />
+    <ignored path="$PROJECT_DIR$/usermembership/target/" />
+    <ignored path="$PROJECT_DIR$/chat/chat-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/sitestats/sitestats-impl-hib/target/" />
+    <ignored path="$PROJECT_DIR$/access/target/" />
+    <ignored path="$PROJECT_DIR$/usermembership/impl/target/" />
+    <ignored path="$PROJECT_DIR$/providers/userdetail/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/sections-service/target/" />
+    <ignored path="$PROJECT_DIR$/signup/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-tool/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/api/target/" />
+    <ignored path="$PROJECT_DIR$/courier/courier-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-blis/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/compilatio/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-utils/target/" />
+    <ignored path="$PROJECT_DIR$/textarea/elfinder-sakai/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-handlers/content-handlers/target/" />
+    <ignored path="$PROJECT_DIR$/sitestats/sitestats-bundle/target/" />
+    <ignored path="$PROJECT_DIR$/providers/target/" />
+    <ignored path="$PROJECT_DIR$/userauditservice/util/target/" />
+    <ignored path="$PROJECT_DIR$/citations/target/" />
+    <ignored path="$PROJECT_DIR$/help/help-component-shared/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/utils/target/" />
+    <ignored path="$PROJECT_DIR$/polls/tool/target/" />
+    <ignored path="$PROJECT_DIR$/gradebookng/tool/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-util/jrcs/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samlite-impl/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/target/" />
+    <ignored path="$PROJECT_DIR$/mailsender/tool/target/" />
+    <ignored path="$PROJECT_DIR$/archive/import-handlers/announcement-handlers/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/message/message-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/web/web-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/reset-pass/reset-pass/target/" />
+    <ignored path="$PROJECT_DIR$/pasystem/pasystem-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/pageorder/tool/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/jsf2-tool/target/" />
+    <ignored path="$PROJECT_DIR$/rubrics/api/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/login/login-render-engine-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/mailsender/impl/target/" />
+    <ignored path="$PROJECT_DIR$/endorsed/target/" />
+    <ignored path="$PROJECT_DIR$/config/target/" />
+    <ignored path="$PROJECT_DIR$/rubrics/impl/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/target/" />
+    <ignored path="$PROJECT_DIR$/roster2/target/" />
+    <ignored path="$PROJECT_DIR$/search/elasticsearch/api/target/" />
+    <ignored path="$PROJECT_DIR$/search/elasticsearch/util/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/gradebook-service/hibernate/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/cm-service/cm-impl/hibernate-pack/target/" />
+    <ignored path="$PROJECT_DIR$/assignment/impl/target/" />
+    <ignored path="$PROJECT_DIR$/web/web-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-metadata/api/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-hibernate/target/" />
+    <ignored path="$PROJECT_DIR$/postem/postem-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/userauditservice/tool/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/turnitin/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-access-tool/target/" />
+    <ignored path="$PROJECT_DIR$/web/web-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/config/sharedI18n/bundles/target/" />
+    <ignored path="$PROJECT_DIR$/msgcntr/messageforums-api/target/" />
+    <ignored path="$PROJECT_DIR$/mailarchive/mailarchive-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/providers/imsent/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-api/target/" />
+    <ignored path="$PROJECT_DIR$/portal/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-qti/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/target/" />
+    <ignored path="$PROJECT_DIR$/signup/tool/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/kernel-impl/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/jsf2-widgets-sun-depend/target/" />
+    <ignored path="$PROJECT_DIR$/syllabus/syllabus-app/target/" />
+    <ignored path="$PROJECT_DIR$/login/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/gradebook-service/api/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-charon/charon/target/" />
+    <ignored path="$PROJECT_DIR$/dav/dav-server/target/" />
+    <ignored path="$PROJECT_DIR$/common/common-api/target/" />
+    <ignored path="$PROJECT_DIR$/search/target/" />
+    <ignored path="$PROJECT_DIR$/oauth/api/target/" />
+    <ignored path="$PROJECT_DIR$/admin-tools/target/" />
+    <ignored path="$PROJECT_DIR$/delegatedaccess/tool/target/" />
+    <ignored path="$PROJECT_DIR$/syllabus/syllabus-impl/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/roster2/i18n/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/cm-service/cm-impl/hibernate-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-parsers/common-cartridge/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-widgets/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-docs/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-tool-sun/target/" />
+    <ignored path="$PROJECT_DIR$/courier/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-test/test-1.7/target/" />
+    <ignored path="$PROJECT_DIR$/external-calendaring-service/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/archive/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/cm-service/target/" />
+    <ignored path="$PROJECT_DIR$/mailarchive/mailarchive-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/usermembership/api/target/" />
+    <ignored path="$PROJECT_DIR$/search/elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/login/login-authn-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/chat/chat-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/feedback/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/dao/target/" />
+    <ignored path="$PROJECT_DIR$/sitestats/target/" />
+    <ignored path="$PROJECT_DIR$/providers/jldap-mock/target/" />
+    <ignored path="$PROJECT_DIR$/common/privacy-api/target/" />
+    <ignored path="$PROJECT_DIR$/profile2/target/" />
+    <ignored path="$PROJECT_DIR$/signup/api/target/" />
+    <ignored path="$PROJECT_DIR$/oauth/target/" />
+    <ignored path="$PROJECT_DIR$/assignment/bundles/target/" />
+    <ignored path="$PROJECT_DIR$/providers/component/target/" />
+    <ignored path="$PROJECT_DIR$/shortenedurl/api/target/" />
+    <ignored path="$PROJECT_DIR$/profile2/bundle/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-common/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/service/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/tsugi-util/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-oidc/target/" />
+    <ignored path="$PROJECT_DIR$/announcement/announcement-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/kernel-common/target/" />
+    <ignored path="$PROJECT_DIR$/chat/target/" />
+    <ignored path="$PROJECT_DIR$/commons/api/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-test-component/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-services/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/jsf-widgets-sun/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/pasystem/pasystem-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/pasystem/target/" />
+    <ignored path="$PROJECT_DIR$/syllabus/syllabus-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-bundles/target/" />
+    <ignored path="$PROJECT_DIR$/mailarchive/mailarchive-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/taggable/taggable-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-model/target/" />
+    <ignored path="$PROJECT_DIR$/user/target/" />
+    <ignored path="$PROJECT_DIR$/commons/impl/target/" />
+    <ignored path="$PROJECT_DIR$/jsf2/jsf2-app/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/target/" />
+    <ignored path="$PROJECT_DIR$/taggable/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/kernel-private/target/" />
+    <ignored path="$PROJECT_DIR$/assignment/tool/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-portlet/target/" />
+    <ignored path="$PROJECT_DIR$/site/target/" />
+    <ignored path="$PROJECT_DIR$/simple-rss-portlet/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/gradebook-service/sakai-pack/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/target/" />
+    <ignored path="$PROJECT_DIR$/cmprovider/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/myfaces-widgets/target/" />
+    <ignored path="$PROJECT_DIR$/podcasts/podcasts-app/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/api/target/" />
+    <ignored path="$PROJECT_DIR$/site/mergedlist-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/webcomponents/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/tool/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/impl/vericite/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-component/target/" />
+    <ignored path="$PROJECT_DIR$/textarea/target/" />
+    <ignored path="$PROJECT_DIR$/search/elasticsearch/impl/target/" />
+    <ignored path="$PROJECT_DIR$/jsf/myfaces-tool/target/" />
+    <ignored path="$PROJECT_DIR$/oauth/tool/target/" />
+    <ignored path="$PROJECT_DIR$/sections/sections-app-util/target/" />
+    <ignored path="$PROJECT_DIR$/hierarchy/impl/target/" />
+    <ignored path="$PROJECT_DIR$/podcasts/podcasts/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-api/target/" />
+    <ignored path="$PROJECT_DIR$/lessonbuilder/components/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-cp/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-group-section-role-helper/pack/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/tool/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-summary-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/config/configuration/bundles/target/" />
+    <ignored path="$PROJECT_DIR$/mailarchive/mailarchive-subetha/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-copyright/impl/target/" />
+    <ignored path="$PROJECT_DIR$/profile2/util/target/" />
+    <ignored path="$PROJECT_DIR$/msgcntr/messageforums-app/target/" />
+    <ignored path="$PROJECT_DIR$/msgcntr/messageforums-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/reset-pass/account-validator-api/target/" />
+    <ignored path="$PROJECT_DIR$/announcement/announcement-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/content/content-impl-providers/impl/target/" />
+    <ignored path="$PROJECT_DIR$/site/sakai-message-bundle-manager-tool/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/component-manager/target/" />
+    <ignored path="$PROJECT_DIR$/tags/target/" />
+    <ignored path="$PROJECT_DIR$/postem/postem-impl/target/" />
+    <ignored path="$PROJECT_DIR$/announcement/announcement-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-pack/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-import/target/" />
+    <ignored path="$PROJECT_DIR$/msgcntr/messageforums-component-impl/target/" />
+    <ignored path="$PROJECT_DIR$/lessonbuilder/tool/target/" />
+    <ignored path="$PROJECT_DIR$/common/archive-impl/impl2/target/" />
+    <ignored path="$PROJECT_DIR$/dav/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/target/" />
+    <ignored path="$PROJECT_DIR$/portal/portal-service-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/deploy/target/" />
+    <ignored path="$PROJECT_DIR$/login/login-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/login/login-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/admin-su/target/" />
+    <ignored path="$PROJECT_DIR$/rsf/sakai-rsf-core/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-parsers/blackboard_5-5/target/" />
+    <ignored path="$PROJECT_DIR$/podcasts/podcasts-impl/target/" />
+    <ignored path="$PROJECT_DIR$/sections/target/" />
+    <ignored path="$PROJECT_DIR$/chat/chat-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/providers/jldap/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/cm-service/cm-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/providers/unboundid/target/" />
+    <ignored path="$PROJECT_DIR$/lessonbuilder/api/target/" />
+    <ignored path="$PROJECT_DIR$/providers/sample/target/" />
+    <ignored path="$PROJECT_DIR$/user/user-tool-admin-prefs/admin-prefs/target/" />
+    <ignored path="$PROJECT_DIR$/login/login-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/search/search-test/target/" />
+    <ignored path="$PROJECT_DIR$/usermembership/tool/target/" />
+    <ignored path="$PROJECT_DIR$/message/message-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/tags/tags-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/syllabus/syllabus-api/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/gradebook-service/target/" />
+    <ignored path="$PROJECT_DIR$/podcasts/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/target/" />
+    <ignored path="$PROJECT_DIR$/postem/postem-api/target/" />
+    <ignored path="$PROJECT_DIR$/userauditservice/api/target/" />
+    <ignored path="$PROJECT_DIR$/announcement/target/" />
+    <ignored path="$PROJECT_DIR$/message/search-adapters/impl/target/" />
+    <ignored path="$PROJECT_DIR$/user/user-util/target/" />
+    <ignored path="$PROJECT_DIR$/reset-pass/target/" />
+    <ignored path="$PROJECT_DIR$/common/privacy-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/roster2/tool/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/pack/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-util/util/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/sections-service/sections-api/target/" />
+    <ignored path="$PROJECT_DIR$/access/web-tool/target/" />
+    <ignored path="$PROJECT_DIR$/webjars/target/" />
+    <ignored path="$PROJECT_DIR$/common/import-parsers/sakai-archive/target/" />
+    <ignored path="$PROJECT_DIR$/dav/dav/target/" />
+    <ignored path="$PROJECT_DIR$/sitestats/sitestats-api/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-content/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/presence/presence-impl/impl/target/" />
+    <ignored path="$PROJECT_DIR$/commons/target/" />
+    <ignored path="$PROJECT_DIR$/rsf/sakai-rsf-web/test/target/" />
+    <ignored path="$PROJECT_DIR$/portal/editor-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/delegatedaccess/api/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-app/target/" />
+    <ignored path="$PROJECT_DIR$/podcasts/podcasts-api/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/impl/target/" />
+    <ignored path="$PROJECT_DIR$/velocity/util/target/" />
+    <ignored path="$PROJECT_DIR$/citations/citations-osid/xserver/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-bundles/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-content/impl/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/scoring-service/api/target/" />
+    <ignored path="$PROJECT_DIR$/shortenedurl/target/" />
+    <ignored path="$PROJECT_DIR$/content/target/" />
+    <ignored path="$PROJECT_DIR$/myconnections/target/" />
+    <ignored path="$PROJECT_DIR$/assignment/api/target/" />
+    <ignored path="$PROJECT_DIR$/edu-services/sections-service/sections-impl/sakai/impl/target/" />
+    <ignored path="$PROJECT_DIR$/velocity/tool/target/" />
+    <ignored path="$PROJECT_DIR$/library/target/" />
+    <ignored path="$PROJECT_DIR$/velocity/target/" />
+    <ignored path="$PROJECT_DIR$/profile2/impl/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-tool/target/" />
+    <ignored path="$PROJECT_DIR$/gradebookng/target/" />
+    <ignored path="$PROJECT_DIR$/tags/tags-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/mailarchive/target/" />
+    <ignored path="$PROJECT_DIR$/calendar/calendar-tool/tool/target/" />
+    <ignored path="$PROJECT_DIR$/basiclti/basiclti-api/target/" />
+    <ignored path="$PROJECT_DIR$/samigo/samigo-pack/target/" />
+    <ignored path="$PROJECT_DIR$/commons/components/target/" />
+    <ignored path="$PROJECT_DIR$/mailsender/api/target/" />
+    <ignored path="$PROJECT_DIR$/content-review/api/target/" />
+    <ignored path="$PROJECT_DIR$/kernel/kernel-storage-util/target/" />
+    <ignored path="$PROJECT_DIR$/oauth/dao-hbm/target/" />
+    <ignored path="$PROJECT_DIR$/dav/dav-common/target/" />
+    <ignored path="$PROJECT_DIR$/taggable/taggable-hbm/hbm/target/" />
+    <ignored path="$PROJECT_DIR$/velocity/tool-api/target/" />
+    <ignored path="$PROJECT_DIR$/pasystem/pasystem-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/hierarchy/api/target/" />
+    <ignored path="$PROJECT_DIR$/jobscheduler/scheduler-test-component-shared/target/" />
+    <ignored path="$PROJECT_DIR$/external-calendaring-service/api/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/target/" />
+    <ignored path="$PROJECT_DIR$/rsf/target/" />
+    <ignored path="$PROJECT_DIR$/site-manage/site-manage-group-section-role-helper/tool/target/" />
+    <ignored path="$PROJECT_DIR$/help/help-component/target/" />
+    <ignored path="$PROJECT_DIR$/rwiki/rwiki-api/api/target/" />
+    <ignored path="$PROJECT_DIR$/entitybroker/mocks/target/" />
+    <ignored path="$PROJECT_DIR$/help/help/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/transferMemberships.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/requestAccount.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/webapp/content/server_info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/webapp/content/server_info_tr_TR.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/newUser.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portal/portal-render-engine-impl/impl/src/webapp/vm/morpheus/includeFooter.vm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/webapp/content/myworkspace_info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Welcome to your personal workspace</find>
+      <find>Welcome to Sakai</find>
+      <find>Sakai</find>
+      <find>Mrphs-container Mrphs-container--footer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/library/src/morpheus-master/images" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/library/src/webapp/content/myworkspace_info.html" />
+        <option value="$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/transferMemberships.html" />
+        <option value="$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/requestAccount.html" />
+        <option value="$PROJECT_DIR$/library/src/webapp/content/server_info.html" />
+        <option value="$PROJECT_DIR$/library/src/webapp/content/server_info_tr_TR.html" />
+        <option value="$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/newUser.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/portal/portal-render-engine-impl/impl/src/webapp/vm/morpheus/includeFooter.vm" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1106" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bundle" type="462c0819:PsiDirectoryNode" />
+              <item name="morpheus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bundle" type="462c0819:PsiDirectoryNode" />
+              <item name="velocity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="velocity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-render-engine-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="morpheus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="reset-pass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="reset-pass" type="462c0819:PsiDirectoryNode" />
+              <item name="account-validator-tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="reset-pass" type="462c0819:PsiDirectoryNode" />
+              <item name="account-validator-tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="reset-pass" type="462c0819:PsiDirectoryNode" />
+              <item name="account-validator-tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sakai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sakai" type="462c0819:PsiDirectoryNode" />
+              <item name="reset-pass" type="462c0819:PsiDirectoryNode" />
+              <item name="account-validator-tool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571982252924" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2fcecfa-947b-48e1-addf-77ce05581e34" name="Default Changelist" comment="" />
+      <created>1571981693985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571981693985</updated>
+      <workItem from="1571981696823" duration="509000" />
+      <workItem from="1571982390687" duration="1926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2435000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1106" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="JSF" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/library/src/morpheus-master/images" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library/src/morpheus-master/images/ring58.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/morpheus-master/images/logo-jewel1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/morpheus-master/images/icon-arrow-down.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/webapp/content/myworkspace_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/transferMemberships.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/requestAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/webapp/content/server_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/webapp/content/server_info_tr_TR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset-pass/account-validator-tool/src/webapp/templates/newUser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal/portal-render-engine-impl/impl/src/webapp/vm/morpheus/includeFooter.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

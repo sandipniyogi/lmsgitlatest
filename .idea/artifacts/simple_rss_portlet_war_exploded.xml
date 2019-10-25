@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="simple-rss-portlet:war exploded">
+    <output-path>$PROJECT_DIR$/simple-rss-portlet/target/simple-rss-portlet</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>simple-rss-portlet</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="simple-rss-portlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: commons-validator:commons-validator:1.6" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.7.0" />
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:2.1" />
+          <element id="library" level="project" name="Maven: oro:oro:2.0.8" />
+          <element id="library" level="project" name="Maven: rome:rome:1.0" />
+          <element id="library" level="project" name="Maven: org.jdom:jdom:1.1.3" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/simple-rss-portlet/target/simple-rss-portlet/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="simple-rss-portlet/web/Web" />
+    </root>
+  </artifact>
+</component>

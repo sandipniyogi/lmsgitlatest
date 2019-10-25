@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="direct:war exploded">
+    <output-path>$PROJECT_DIR$/entitybroker/tool/target/direct-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>direct</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="direct" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="entitybroker-utils-19.2.jar">
+            <element id="module-output" name="entitybroker-utils" />
+          </element>
+          <element id="library" level="project" name="Maven: org.azeckoski:reflectutils:0.9.20" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="archive" name="entitybroker-restimpl-19.2.jar">
+            <element id="module-output" name="entitybroker-restimpl" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.4" />
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/entitybroker/tool/target/direct-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="direct/web/Web" />
+    </root>
+  </artifact>
+</component>

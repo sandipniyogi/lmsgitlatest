@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="delegatedaccess-tool:war">
+    <output-path>$PROJECT_DIR$/delegatedaccess/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>delegatedaccess-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="delegatedaccess-tool-19.2.war">
+      <element id="artifact" artifact-name="delegatedaccess-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/storage/TagCollectionStorage.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/common/DBAction.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/job/TagsSyncJob.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/job/MeshTagsSyncJob.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/rest/TagServiceEntityProvider.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/TagServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/common/DB.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/common/DBPreparedStatement.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/job/TagsExportedXMLSyncJob.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/common/DBConnection.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/common/SakaiI18n.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/common/DBResults.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/job/TagSynchronizer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/storage/TagStorage.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/tags/tags-impl/impl/src/java/org/sakaiproject/tags/impl/rest/TagServiceAdminEntityProvider.java

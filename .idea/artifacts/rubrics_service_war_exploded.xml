@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rubrics-service:war exploded">
+    <output-path>$PROJECT_DIR$/rubrics/tool/target/rubrics-service-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>rubrics-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rubrics-service" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.1" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-configuration-processor:1.5.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-rest-webmvc:2.6.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.2.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:4.2.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-data:4.2.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:3.0.10.RELEASE" />
+          <element id="library" level="project" name="Maven: ognl:ognl:3.1.12" />
+          <element id="library" level="project" name="Maven: org.attoparser:attoparser:2.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring4:3.0.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.3.19.RELEASE" />
+          <element id="library" level="project" name="Maven: com.auth0:java-jwt:3.1.0" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk15on:1.55" />
+          <element id="library" level="project" name="Maven: org.json:json:20171018" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/rubrics/tool/target/rubrics-service-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="rubrics-service/web/Web" />
+    </root>
+  </artifact>
+</component>

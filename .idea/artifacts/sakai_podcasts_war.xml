@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-podcasts:war">
+    <output-path>$PROJECT_DIR$/podcasts/podcasts-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-podcasts</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-podcasts-19.2.war">
+      <element id="artifact" artifact-name="sakai-podcasts:war exploded" />
+    </root>
+  </artifact>
+</component>

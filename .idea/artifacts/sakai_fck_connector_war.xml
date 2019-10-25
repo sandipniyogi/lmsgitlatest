@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-fck-connector:war">
+    <output-path>$PROJECT_DIR$/textarea/FCKeditor/connector/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-fck-connector</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-fck-connector-19.2.war">
+      <element id="artifact" artifact-name="sakai-fck-connector:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,69 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sakai-user-tool-prefs:war exploded">
+    <output-path>$PROJECT_DIR$/user/user-tool-prefs/tool/target/sakai-user-tool-prefs-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>sakai-user-tool-prefs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sakai-user-tool-prefs" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: org.apache.myfaces.tomahawk:tomahawk:1.1.14" />
+          <element id="library" level="project" name="Maven: commons-validator:commons-validator:1.6" />
+          <element id="library" level="project" name="Maven: commons-el:commons-el:1.0" />
+          <element id="library" level="project" name="Maven: oro:oro:2.0.8" />
+          <element id="library" level="project" name="Maven: batik:batik-awt-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-gui-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-ext:1.6-1" />
+          <element id="archive" name="jsf-tool-sun-19.2.pom">
+            <element id="module-output" name="jsf-tool-sun" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.faces:jsf-impl:1.1_02" />
+          <element id="library" level="project" name="Maven: javax.faces:jsf-api:1.1_02" />
+          <element id="archive" name="jsf-widgets-sun-depend-19.2.pom">
+            <element id="module-output" name="jsf-widgets-sun-depend" />
+          </element>
+          <element id="archive" name="jsf-widgets-sun-19.2.jar">
+            <element id="module-output" name="jsf-widgets-sun" />
+          </element>
+          <element id="archive" name="jsf-widgets-19.2.jar">
+            <element id="module-output" name="jsf-widgets" />
+          </element>
+          <element id="archive" name="jsf-tool-19.2.jar">
+            <element id="module-output" name="jsf-tool" />
+          </element>
+          <element id="archive" name="jsf-app-19.2.jar">
+            <element id="module-output" name="jsf-app" />
+          </element>
+          <element id="archive" name="sakai-portal-util-19.2.jar">
+            <element id="module-output" name="sakai-portal-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:1.6" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.7.0" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="archive" name="entitybroker-utils-19.2.jar">
+            <element id="module-output" name="entitybroker-utils" />
+          </element>
+          <element id="library" level="project" name="Maven: org.azeckoski:reflectutils:0.9.20" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/user/user-tool-prefs/tool/target/sakai-user-tool-prefs-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sakai-user-tool-prefs/web/Web" />
+    </root>
+  </artifact>
+</component>

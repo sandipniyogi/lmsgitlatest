@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imsblis:war">
+    <output-path>$PROJECT_DIR$/basiclti/basiclti-blis/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>imsblis</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="imsblis-19.2.war">
+      <element id="artifact" artifact-name="imsblis:war exploded" />
+    </root>
+  </artifact>
+</component>

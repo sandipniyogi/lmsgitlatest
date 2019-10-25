@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-calendar-summary-tool:war">
+    <output-path>$PROJECT_DIR$/calendar/calendar-summary-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-calendar-summary-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-calendar-summary-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-calendar-summary-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

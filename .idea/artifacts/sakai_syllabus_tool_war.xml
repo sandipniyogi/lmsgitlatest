@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-syllabus-tool:war">
+    <output-path>$PROJECT_DIR$/syllabus/syllabus-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-syllabus-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-syllabus-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-syllabus-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-citations-servlet:war">
+    <output-path>$PROJECT_DIR$/citations/citations-servlet/servlet/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-citations-servlet</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="savecite.war">
+      <element id="artifact" artifact-name="sakai-citations-servlet:war exploded" />
+    </root>
+  </artifact>
+</component>

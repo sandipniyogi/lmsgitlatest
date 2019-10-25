@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-site-manage-group-helper:war">
+    <output-path>$PROJECT_DIR$/site-manage/site-manage-group-helper/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-site-manage-group-helper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-site-manage-group-helper-19.2.war">
+      <element id="artifact" artifact-name="sakai-site-manage-group-helper:war exploded" />
+    </root>
+  </artifact>
+</component>

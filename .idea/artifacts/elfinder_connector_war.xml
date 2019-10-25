@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="elfinder-connector:war">
+    <output-path>$PROJECT_DIR$/textarea/elfinder-sakai/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>elfinder-connector</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="elfinder-connector-19.2.war">
+      <element id="artifact" artifact-name="elfinder-connector:war exploded" />
+    </root>
+  </artifact>
+</component>

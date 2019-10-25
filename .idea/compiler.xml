@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="access" />
+        <module name="accountvalidator" />
+        <module name="accountvalidator-api" />
+        <module name="accountvalidator-impl" />
+        <module name="admin-tool-su" />
+        <module name="admin-tools" />
+        <module name="adminsiteperms" />
+        <module name="archive-api" />
+        <module name="archive-impl2" />
+        <module name="authn" />
+        <module name="basiclti-admin-tool" />
+        <module name="basiclti-api" />
+        <module name="basiclti-common" />
+        <module name="basiclti-impl" />
+        <module name="basiclti-util" />
+        <module name="cloud-content-impl" />
+        <module name="cmprovider" />
+        <module name="common-cartridge" />
+        <module name="commons-api" />
+        <module name="commons-impl" />
+        <module name="commons-pack" />
+        <module name="commons-tool" />
+        <module name="configuration-bundles" />
+        <module name="content-bundles" />
+        <module name="content-cleanup-impl" />
+        <module name="content-copyright-api" />
+        <module name="content-copyright-impl" />
+        <module name="content-metadata-api" />
+        <module name="content-metadata-impl" />
+        <module name="content-providers-impl" />
+        <module name="content-review-api" />
+        <module name="content-review-compilatio-impl" />
+        <module name="content-review-dao-impl" />
+        <module name="content-review-pack" />
+        <module name="content-review-service-impl" />
+        <module name="content-review-tool" />
+        <module name="content-review-turnitin-impl" />
+        <module name="content-review-turnitin-oc-impl" />
+        <module name="content-review-urkund-impl" />
+        <module name="content-review-vericite-impl" />
+        <module name="content-types" />
+        <module name="courier-tool" />
+        <module name="coursemanagement-api" />
+        <module name="coursemanagement-hibernate-impl" />
+        <module name="coursemanagement-hibernate-model" />
+        <module name="coursemanagement-hibernate-pack" />
+        <module name="dav" />
+        <module name="delegatedaccess-api" />
+        <module name="delegatedaccess-impl" />
+        <module name="delegatedaccess-tool" />
+        <module name="direct" />
+        <module name="elasticsearch-api" />
+        <module name="elasticsearch-impl" />
+        <module name="elasticsearch-util" />
+        <module name="elfinder-connector" />
+        <module name="emailtemplateservice-api" />
+        <module name="emailtemplateservice-impl" />
+        <module name="emailtemplateservice-tool" />
+        <module name="entitybroker-api" />
+        <module name="entitybroker-impl" />
+        <module name="entitybroker-mocks" />
+        <module name="entitybroker-pack" />
+        <module name="entitybroker-restimpl" />
+        <module name="entitybroker-utils" />
+        <module name="external-calendaring-service-api" />
+        <module name="external-calendaring-service-impl" />
+        <module name="feedback-tool" />
+        <module name="gradebook-service-api" />
+        <module name="gradebook-service-hibernate" />
+        <module name="gradebook-service-impl" />
+        <module name="gradebook-service-pack" />
+        <module name="gradebookng-tool" />
+        <module name="hierarchy-api" />
+        <module name="hierarchy-impl" />
+        <module name="import-impl" />
+        <module name="import-pack" />
+        <module name="imsblis" />
+        <module name="imsblti" />
+        <module name="imsoidc" />
+        <module name="jsf-app" />
+        <module name="jsf-resource" />
+        <module name="jsf-spreadsheet" />
+        <module name="jsf-tool" />
+        <module name="jsf-widgets" />
+        <module name="jsf-widgets-sun" />
+        <module name="jsf2-app" />
+        <module name="jsf2-tool" />
+        <module name="jsf2-widgets" />
+        <module name="jsf2-widgets-sun" />
+        <module name="lessonbuilder-api" />
+        <module name="lessonbuilder-components" />
+        <module name="lessonbuilder-hbm" />
+        <module name="lessonbuilder-tool" />
+        <module name="library" />
+        <module name="localization-bundles" />
+        <module name="login-api" />
+        <module name="login-impl" />
+        <module name="login-render-engine-impl" />
+        <module name="mailsender-api" />
+        <module name="mailsender-impl" />
+        <module name="mailsender-tool" />
+        <module name="message-search-adapters-impl" />
+        <module name="messageforums-api" />
+        <module name="messageforums-component-impl" />
+        <module name="messageforums-hbm" />
+        <module name="messageforums-tool" />
+        <module name="mycalendar" />
+        <module name="myconnections" />
+        <module name="myfaces-widgets" />
+        <module name="oauth-api" />
+        <module name="oauth-dao-hbm" />
+        <module name="oauth-impl" />
+        <module name="oauth-tool" />
+        <module name="pasystem-api" />
+        <module name="pasystem-impl" />
+        <module name="pasystem-tool" />
+        <module name="podcasts" />
+        <module name="polls-api" />
+        <module name="polls-impl" />
+        <module name="polls-tool" />
+        <module name="portal-charon" />
+        <module name="portal-chat" />
+        <module name="portlet-util" />
+        <module name="profile2-api" />
+        <module name="profile2-bundle" />
+        <module name="profile2-impl" />
+        <module name="profile2-tool" />
+        <module name="profile2-util" />
+        <module name="providers" />
+        <module name="rubrics-service" />
+        <module name="rubrics-service-api" />
+        <module name="rubrics-service-impl" />
+        <module name="sakai-access-impl" />
+        <module name="sakai-allhands-provider" />
+        <module name="sakai-announcement-api" />
+        <module name="sakai-announcement-impl" />
+        <module name="sakai-announcement-tool" />
+        <module name="sakai-archive-import" />
+        <module name="sakai-assignment-api" />
+        <module name="sakai-assignment-bundles" />
+        <module name="sakai-assignment-impl" />
+        <module name="sakai-assignment-tool" />
+        <module name="sakai-calendar-api" />
+        <module name="sakai-calendar-bundles" />
+        <module name="sakai-calendar-connector" />
+        <module name="sakai-calendar-hbm" />
+        <module name="sakai-calendar-impl" />
+        <module name="sakai-calendar-summary-tool" />
+        <module name="sakai-calendar-tool" />
+        <module name="sakai-calendar-util" />
+        <module name="sakai-chat-api" />
+        <module name="sakai-chat-impl" />
+        <module name="sakai-chat-tool" />
+        <module name="sakai-citations-api" />
+        <module name="sakai-citations-impl" />
+        <module name="sakai-citations-servlet" />
+        <module name="sakai-citations-tool" />
+        <module name="sakai-citations-util" />
+        <module name="sakai-citations-web2bridge" />
+        <module name="sakai-citations-xserver" />
+        <module name="sakai-common-api" />
+        <module name="sakai-common-composite-component" />
+        <module name="sakai-common-composite-component-data" />
+        <module name="sakai-comp-help" />
+        <module name="sakai-comp-shared-help" />
+        <module name="sakai-component-manager" />
+        <module name="sakai-content-tool" />
+        <module name="sakai-courier-api" />
+        <module name="sakai-courier-impl" />
+        <module name="sakai-courier-util" />
+        <module name="sakai-coursemanagement-authz-provider-impl" />
+        <module name="sakai-dav-common" />
+        <module name="sakai-dav-server" />
+        <module name="sakai-editor" />
+        <module name="sakai-endorsed-i18n" />
+        <module name="sakai-fck-connector" />
+        <module name="sakai-federating-provider" />
+        <module name="sakai-help-api" />
+        <module name="sakai-help-content" />
+        <module name="sakai-help-tool" />
+        <module name="sakai-import-announcement" />
+        <module name="sakai-import-bb55" />
+        <module name="sakai-import-bb6" />
+        <module name="sakai-import-bb6-resource" />
+        <module name="sakai-import-content" />
+        <module name="sakai-import-util" />
+        <module name="sakai-imsent-provider" />
+        <module name="sakai-jldap-provider" />
+        <module name="sakai-jldap-provider-mock" />
+        <module name="sakai-kerberos-provider" />
+        <module name="sakai-kernel-api" />
+        <module name="sakai-kernel-common" />
+        <module name="sakai-kernel-impl" />
+        <module name="sakai-kernel-private" />
+        <module name="sakai-kernel-storage-util" />
+        <module name="sakai-kernel-util" />
+        <module name="sakai-login-tool" />
+        <module name="sakai-mailarchive-api" />
+        <module name="sakai-mailarchive-impl" />
+        <module name="sakai-mailarchive-subetha" />
+        <module name="sakai-mailarchive-tool" />
+        <module name="sakai-mergedlist-util" />
+        <module name="sakai-message-api" />
+        <module name="sakai-message-bundle-manager-tool" />
+        <module name="sakai-message-tool" />
+        <module name="sakai-message-util" />
+        <module name="sakai-openldap-provider" />
+        <module name="sakai-podcasts" />
+        <module name="sakai-podcasts-api" />
+        <module name="sakai-podcasts-impl" />
+        <module name="sakai-portal-api" />
+        <module name="sakai-portal-impl" />
+        <module name="sakai-portal-render-api" />
+        <module name="sakai-portal-render-engine-impl" />
+        <module name="sakai-portal-render-impl" />
+        <module name="sakai-portal-service-impl" />
+        <module name="sakai-portal-util" />
+        <module name="sakai-postem-api" />
+        <module name="sakai-postem-hbm" />
+        <module name="sakai-postem-impl" />
+        <module name="sakai-postem-tool" />
+        <module name="sakai-presence-api" />
+        <module name="sakai-presence-impl" />
+        <module name="sakai-presence-tool" />
+        <module name="sakai-presence-util" />
+        <module name="sakai-privacy-api" />
+        <module name="sakai-privacy-hbm" />
+        <module name="sakai-privacy-impl" />
+        <module name="sakai-provider-pack" />
+        <module name="sakai-radeox" />
+        <module name="sakai-reset-pass" />
+        <module name="sakai-roster2-i18n" />
+        <module name="sakai-roster2-tool" />
+        <module name="sakai-rsf-core" />
+        <module name="sakai-rsf-web-evolvers" />
+        <module name="sakai-rsf-web-templates" />
+        <module name="sakai-rsf-web-test" />
+        <module name="sakai-rwiki-api" />
+        <module name="sakai-rwiki-diff" />
+        <module name="sakai-rwiki-impl" />
+        <module name="sakai-rwiki-model" />
+        <module name="sakai-rwiki-tool" />
+        <module name="sakai-rwiki-util" />
+        <module name="sakai-sample-provider" />
+        <module name="sakai-search-tool" />
+        <module name="sakai-sections-app-util" />
+        <module name="sakai-sections-tool" />
+        <module name="sakai-signup-tool" />
+        <module name="sakai-site-manage-api" />
+        <module name="sakai-site-manage-group-helper" />
+        <module name="sakai-site-manage-group-section-role-helper" />
+        <module name="sakai-site-manage-group-section-role-helper-pack" />
+        <module name="sakai-site-manage-hbm" />
+        <module name="sakai-site-manage-impl" />
+        <module name="sakai-site-manage-link-helper" />
+        <module name="sakai-site-manage-participant-helper" />
+        <module name="sakai-site-manage-tool" />
+        <module name="sakai-site-manage-util" />
+        <module name="sakai-site-pageorder-helper" />
+        <module name="sakai-syllabus-api" />
+        <module name="sakai-syllabus-hbm" />
+        <module name="sakai-syllabus-impl" />
+        <module name="sakai-syllabus-tool" />
+        <module name="sakai-taggable-api" />
+        <module name="sakai-taggable-hbm" />
+        <module name="sakai-taggable-impl" />
+        <module name="sakai-unboundid-provider" />
+        <module name="sakai-user-tool-admin-prefs" />
+        <module name="sakai-user-tool-prefs" />
+        <module name="sakai-userdetail-provider" />
+        <module name="sakai-usermembership-api" />
+        <module name="sakai-usermembership-impl" />
+        <module name="sakai-usermembership-tool" />
+        <module name="sakai-velocity-tool" />
+        <module name="sakai-velocity-tool-api" />
+        <module name="sakai-velocity-util" />
+        <module name="sakai-web-api" />
+        <module name="sakai-web-impl" />
+        <module name="sakai-web-portlet" />
+        <module name="sakai-web-portlet-basiclti" />
+        <module name="sakai-web-tool" />
+        <module name="sakai-ws" />
+        <module name="samigo-api" />
+        <module name="samigo-app" />
+        <module name="samigo-cp" />
+        <module name="samigo-hibernate" />
+        <module name="samigo-impl" />
+        <module name="samigo-import" />
+        <module name="samigo-pack" />
+        <module name="samigo-qti" />
+        <module name="samigo-services" />
+        <module name="samlite-impl" />
+        <module name="scheduler-api" />
+        <module name="scheduler-component" />
+        <module name="scheduler-component-shared" />
+        <module name="scheduler-events-model" />
+        <module name="scheduler-test-component" />
+        <module name="scheduler-test-component-shared" />
+        <module name="scheduler-tool" />
+        <module name="scheduler-utils" />
+        <module name="scoring-service-api" />
+        <module name="scoring-service-impl" />
+        <module name="search-api" />
+        <module name="search-impl" />
+        <module name="search-model" />
+        <module name="search-test-1.7" />
+        <module name="search-util" />
+        <module name="sections-api" />
+        <module name="sections-impl" />
+        <module name="sections-model" />
+        <module name="shared-i18n-bundles" />
+        <module name="shortenedurl-api" />
+        <module name="shortenedurl-impl" />
+        <module name="signup-api" />
+        <module name="signup-impl" />
+        <module name="simple-rss-portlet" />
+        <module name="sitestats-api" />
+        <module name="sitestats-bundle" />
+        <module name="sitestats-impl" />
+        <module name="sitestats-impl-hib" />
+        <module name="sitestats-tool" />
+        <module name="tags-api" />
+        <module name="tags-impl" />
+        <module name="tags-tool" />
+        <module name="tool" />
+        <module name="user-util" />
+        <module name="userauditservice-api" />
+        <module name="userauditservice-impl" />
+        <module name="userauditservice-tool" />
+        <module name="userauditservice-util" />
+        <module name="web" />
+        <module name="webcomponents" />
+        <module name="wiki" />
+        <module name="x" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="access" target="1.8" />
+      <module name="access-base" target="1.8" />
+      <module name="accountvalidator" target="1.8" />
+      <module name="accountvalidator-api" target="1.8" />
+      <module name="accountvalidator-impl" target="1.8" />
+      <module name="admin-tool-su" target="1.8" />
+      <module name="admin-tools" target="1.8" />
+      <module name="adminsiteperms" target="1.8" />
+      <module name="announcement" target="1.8" />
+      <module name="archive-api" target="1.8" />
+      <module name="archive-base" target="1.8" />
+      <module name="archive-impl2" target="1.8" />
+      <module name="assignment" target="1.8" />
+      <module name="authn" target="1.8" />
+      <module name="base" target="1.8" />
+      <module name="basiclti" target="1.8" />
+      <module name="basiclti-admin-tool" target="1.8" />
+      <module name="basiclti-api" target="1.8" />
+      <module name="basiclti-common" target="1.8" />
+      <module name="basiclti-docs" target="1.8" />
+      <module name="basiclti-impl" target="1.8" />
+      <module name="basiclti-util" target="1.8" />
+      <module name="calendar" target="1.8" />
+      <module name="chat-base" target="1.8" />
+      <module name="citations-base" target="1.8" />
+      <module name="cloud-content" target="1.8" />
+      <module name="cloud-content-impl" target="1.8" />
+      <module name="cmprovider" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common-cartridge" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="commons-api" target="1.8" />
+      <module name="commons-impl" target="1.8" />
+      <module name="commons-pack" target="1.8" />
+      <module name="commons-tool" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="configuration-bundles" target="1.8" />
+      <module name="content" target="1.8" />
+      <module name="content-bundles" target="1.8" />
+      <module name="content-cleanup" target="1.8" />
+      <module name="content-cleanup-impl" target="1.8" />
+      <module name="content-copyright-api" target="1.8" />
+      <module name="content-copyright-impl" target="1.8" />
+      <module name="content-metadata-api" target="1.8" />
+      <module name="content-metadata-impl" target="1.8" />
+      <module name="content-providers-impl" target="1.8" />
+      <module name="content-review" target="1.8" />
+      <module name="content-review-api" target="1.8" />
+      <module name="content-review-compilatio-impl" target="1.8" />
+      <module name="content-review-dao-impl" target="1.8" />
+      <module name="content-review-impl" target="1.8" />
+      <module name="content-review-pack" target="1.8" />
+      <module name="content-review-service-impl" target="1.8" />
+      <module name="content-review-tool" target="1.8" />
+      <module name="content-review-turnitin-impl" target="1.8" />
+      <module name="content-review-turnitin-oc-impl" target="1.8" />
+      <module name="content-review-urkund-impl" target="1.8" />
+      <module name="content-review-vericite-impl" target="1.8" />
+      <module name="content-types" target="1.8" />
+      <module name="courier" target="1.8" />
+      <module name="courier-tool" target="1.8" />
+      <module name="course-management" target="1.8" />
+      <module name="coursemanagement-api" target="1.8" />
+      <module name="coursemanagement-hibernate-impl" target="1.8" />
+      <module name="coursemanagement-hibernate-model" target="1.8" />
+      <module name="coursemanagement-hibernate-pack" target="1.8" />
+      <module name="dav" target="1.8" />
+      <module name="dav-base" target="1.8" />
+      <module name="delegatedaccess" target="1.8" />
+      <module name="delegatedaccess-api" target="1.8" />
+      <module name="delegatedaccess-impl" target="1.8" />
+      <module name="delegatedaccess-tool" target="1.8" />
+      <module name="deploy" target="1.8" />
+      <module name="direct" target="1.8" />
+      <module name="edu-services" target="1.8" />
+      <module name="elasticsearch-api" target="1.8" />
+      <module name="elasticsearch-base" target="1.8" />
+      <module name="elasticsearch-impl" target="1.8" />
+      <module name="elasticsearch-util" target="1.8" />
+      <module name="elfinder-connector" target="1.8" />
+      <module name="emailtemplateservice" target="1.8" />
+      <module name="emailtemplateservice-api" target="1.8" />
+      <module name="emailtemplateservice-impl" target="1.8" />
+      <module name="emailtemplateservice-tool" target="1.8" />
+      <module name="endorsed" target="1.8" />
+      <module name="entitybroker" target="1.8" />
+      <module name="entitybroker-api" target="1.8" />
+      <module name="entitybroker-impl" target="1.8" />
+      <module name="entitybroker-mocks" target="1.8" />
+      <module name="entitybroker-pack" target="1.8" />
+      <module name="entitybroker-restimpl" target="1.8" />
+      <module name="entitybroker-utils" target="1.8" />
+      <module name="external-calendaring-service" target="1.8" />
+      <module name="external-calendaring-service-api" target="1.8" />
+      <module name="external-calendaring-service-impl" target="1.8" />
+      <module name="feedback-tool" target="1.8" />
+      <module name="gradebook-service" target="1.8" />
+      <module name="gradebook-service-api" target="1.8" />
+      <module name="gradebook-service-hibernate" target="1.8" />
+      <module name="gradebook-service-impl" target="1.8" />
+      <module name="gradebook-service-pack" target="1.8" />
+      <module name="gradebookng" target="1.8" />
+      <module name="gradebookng-tool" target="1.8" />
+      <module name="help-base" target="1.8" />
+      <module name="hierarchy" target="1.8" />
+      <module name="hierarchy-api" target="1.8" />
+      <module name="hierarchy-impl" target="1.8" />
+      <module name="import-impl" target="1.8" />
+      <module name="import-pack" target="1.8" />
+      <module name="imsblis" target="1.8" />
+      <module name="imsblti" target="1.8" />
+      <module name="imsoidc" target="1.8" />
+      <module name="jsf" target="1.8" />
+      <module name="jsf-app" target="1.8" />
+      <module name="jsf-resource" target="1.8" />
+      <module name="jsf-spreadsheet" target="1.8" />
+      <module name="jsf-tool" target="1.8" />
+      <module name="jsf-tool-sun" target="1.8" />
+      <module name="jsf-widgets" target="1.8" />
+      <module name="jsf-widgets-sun" target="1.8" />
+      <module name="jsf-widgets-sun-depend" target="1.8" />
+      <module name="jsf2" target="1.8" />
+      <module name="jsf2-app" target="1.8" />
+      <module name="jsf2-tool" target="1.8" />
+      <module name="jsf2-tool-sun" target="1.8" />
+      <module name="jsf2-widgets" target="1.8" />
+      <module name="jsf2-widgets-sun" target="1.8" />
+      <module name="jsf2-widgets-sun-depend" target="1.8" />
+      <module name="kernel" target="1.8" />
+      <module name="lessonbuilder" target="1.8" />
+      <module name="lessonbuilder-api" target="1.8" />
+      <module name="lessonbuilder-components" target="1.8" />
+      <module name="lessonbuilder-hbm" target="1.8" />
+      <module name="lessonbuilder-tool" target="1.8" />
+      <module name="library" target="1.8" />
+      <module name="localization-bundles" target="1.8" />
+      <module name="login" target="1.8" />
+      <module name="login-api" target="1.8" />
+      <module name="login-impl" target="1.8" />
+      <module name="login-render-engine-impl" target="1.8" />
+      <module name="mailarchive" target="1.8" />
+      <module name="mailsender" target="1.8" />
+      <module name="mailsender-api" target="1.8" />
+      <module name="mailsender-impl" target="1.8" />
+      <module name="mailsender-tool" target="1.8" />
+      <module name="master" target="1.8" />
+      <module name="message" target="1.8" />
+      <module name="message-search-adapters-impl" target="1.8" />
+      <module name="messageforums-api" target="1.8" />
+      <module name="messageforums-component-impl" target="1.8" />
+      <module name="messageforums-hbm" target="1.8" />
+      <module name="messageforums-tool" target="1.8" />
+      <module name="msgcntr" target="1.8" />
+      <module name="mycalendar" target="1.8" />
+      <module name="myconnections" target="1.8" />
+      <module name="myfaces-tool" target="1.8" />
+      <module name="myfaces-widgets" target="1.8" />
+      <module name="myfaces-widgets-depend" target="1.8" />
+      <module name="oauth-api" target="1.8" />
+      <module name="oauth-base" target="1.8" />
+      <module name="oauth-dao-hbm" target="1.8" />
+      <module name="oauth-impl" target="1.8" />
+      <module name="oauth-tool" target="1.8" />
+      <module name="pasystem-api" target="1.8" />
+      <module name="pasystem-base" target="1.8" />
+      <module name="pasystem-impl" target="1.8" />
+      <module name="pasystem-tool" target="1.8" />
+      <module name="podcasts" target="1.8" />
+      <module name="podcasts-base" target="1.8" />
+      <module name="polls" target="1.8" />
+      <module name="polls-api" target="1.8" />
+      <module name="polls-impl" target="1.8" />
+      <module name="polls-tool" target="1.8" />
+      <module name="portal" target="1.8" />
+      <module name="portal-charon" target="1.8" />
+      <module name="portal-chat" target="1.8" />
+      <module name="portlet-util" target="1.8" />
+      <module name="postem-base" target="1.8" />
+      <module name="presence" target="1.8" />
+      <module name="profile2" target="1.8" />
+      <module name="profile2-api" target="1.8" />
+      <module name="profile2-bundle" target="1.8" />
+      <module name="profile2-impl" target="1.8" />
+      <module name="profile2-tool" target="1.8" />
+      <module name="profile2-util" target="1.8" />
+      <module name="providers" target="1.8" />
+      <module name="providers-base" target="1.8" />
+      <module name="reset-pass" target="1.8" />
+      <module name="rubrics" target="1.8" />
+      <module name="rubrics-service" target="1.8" />
+      <module name="rubrics-service-api" target="1.8" />
+      <module name="rubrics-service-impl" target="1.8" />
+      <module name="rwiki-base" target="1.8" />
+      <module name="sakai-access-impl" target="1.8" />
+      <module name="sakai-allhands-provider" target="1.8" />
+      <module name="sakai-announcement-api" target="1.8" />
+      <module name="sakai-announcement-impl" target="1.8" />
+      <module name="sakai-announcement-tool" target="1.8" />
+      <module name="sakai-archive-import" target="1.8" />
+      <module name="sakai-assignment-api" target="1.8" />
+      <module name="sakai-assignment-bundles" target="1.8" />
+      <module name="sakai-assignment-impl" target="1.8" />
+      <module name="sakai-assignment-tool" target="1.8" />
+      <module name="sakai-calendar-api" target="1.8" />
+      <module name="sakai-calendar-bundles" target="1.8" />
+      <module name="sakai-calendar-connector" target="1.8" />
+      <module name="sakai-calendar-hbm" target="1.8" />
+      <module name="sakai-calendar-impl" target="1.8" />
+      <module name="sakai-calendar-summary-tool" target="1.8" />
+      <module name="sakai-calendar-tool" target="1.8" />
+      <module name="sakai-calendar-util" target="1.8" />
+      <module name="sakai-chat-api" target="1.8" />
+      <module name="sakai-chat-impl" target="1.8" />
+      <module name="sakai-chat-tool" target="1.8" />
+      <module name="sakai-citations-api" target="1.8" />
+      <module name="sakai-citations-impl" target="1.8" />
+      <module name="sakai-citations-servlet" target="1.8" />
+      <module name="sakai-citations-tool" target="1.8" />
+      <module name="sakai-citations-util" target="1.8" />
+      <module name="sakai-citations-web2bridge" target="1.8" />
+      <module name="sakai-citations-xserver" target="1.8" />
+      <module name="sakai-common-api" target="1.8" />
+      <module name="sakai-common-composite-component" target="1.8" />
+      <module name="sakai-common-composite-component-data" target="1.8" />
+      <module name="sakai-comp-help" target="1.8" />
+      <module name="sakai-comp-shared-help" target="1.8" />
+      <module name="sakai-component-manager" target="1.8" />
+      <module name="sakai-content-tool" target="1.8" />
+      <module name="sakai-courier-api" target="1.8" />
+      <module name="sakai-courier-impl" target="1.8" />
+      <module name="sakai-courier-util" target="1.8" />
+      <module name="sakai-coursemanagement-authz-provider-impl" target="1.8" />
+      <module name="sakai-dav-common" target="1.8" />
+      <module name="sakai-dav-server" target="1.8" />
+      <module name="sakai-editor" target="1.8" />
+      <module name="sakai-endorsed-i18n" target="1.8" />
+      <module name="sakai-fck-connector" target="1.8" />
+      <module name="sakai-federating-provider" target="1.8" />
+      <module name="sakai-help-api" target="1.8" />
+      <module name="sakai-help-content" target="1.8" />
+      <module name="sakai-help-tool" target="1.8" />
+      <module name="sakai-import-announcement" target="1.8" />
+      <module name="sakai-import-bb55" target="1.8" />
+      <module name="sakai-import-bb6" target="1.8" />
+      <module name="sakai-import-bb6-resource" target="1.8" />
+      <module name="sakai-import-content" target="1.8" />
+      <module name="sakai-import-util" target="1.8" />
+      <module name="sakai-imsent-provider" target="1.8" />
+      <module name="sakai-jldap-provider" target="1.8" />
+      <module name="sakai-jldap-provider-mock" target="1.8" />
+      <module name="sakai-kerberos-provider" target="1.8" />
+      <module name="sakai-kernel-api" target="1.8" />
+      <module name="sakai-kernel-common" target="1.8" />
+      <module name="sakai-kernel-impl" target="1.8" />
+      <module name="sakai-kernel-private" target="1.8" />
+      <module name="sakai-kernel-storage-util" target="1.8" />
+      <module name="sakai-kernel-util" target="1.8" />
+      <module name="sakai-login-tool" target="1.8" />
+      <module name="sakai-mailarchive-api" target="1.8" />
+      <module name="sakai-mailarchive-impl" target="1.8" />
+      <module name="sakai-mailarchive-subetha" target="1.8" />
+      <module name="sakai-mailarchive-tool" target="1.8" />
+      <module name="sakai-mergedlist-util" target="1.8" />
+      <module name="sakai-message-api" target="1.8" />
+      <module name="sakai-message-bundle-manager-tool" target="1.8" />
+      <module name="sakai-message-tool" target="1.8" />
+      <module name="sakai-message-util" target="1.8" />
+      <module name="sakai-openldap-provider" target="1.8" />
+      <module name="sakai-podcasts" target="1.8" />
+      <module name="sakai-podcasts-api" target="1.8" />
+      <module name="sakai-podcasts-impl" target="1.8" />
+      <module name="sakai-portal-api" target="1.8" />
+      <module name="sakai-portal-impl" target="1.8" />
+      <module name="sakai-portal-render-api" target="1.8" />
+      <module name="sakai-portal-render-engine-impl" target="1.8" />
+      <module name="sakai-portal-render-impl" target="1.8" />
+      <module name="sakai-portal-service-impl" target="1.8" />
+      <module name="sakai-portal-util" target="1.8" />
+      <module name="sakai-postem-api" target="1.8" />
+      <module name="sakai-postem-hbm" target="1.8" />
+      <module name="sakai-postem-impl" target="1.8" />
+      <module name="sakai-postem-tool" target="1.8" />
+      <module name="sakai-presence-api" target="1.8" />
+      <module name="sakai-presence-impl" target="1.8" />
+      <module name="sakai-presence-tool" target="1.8" />
+      <module name="sakai-presence-util" target="1.8" />
+      <module name="sakai-privacy-api" target="1.8" />
+      <module name="sakai-privacy-hbm" target="1.8" />
+      <module name="sakai-privacy-impl" target="1.8" />
+      <module name="sakai-provider-pack" target="1.8" />
+      <module name="sakai-radeox" target="1.8" />
+      <module name="sakai-reset-pass" target="1.8" />
+      <module name="sakai-roster2-base" target="1.8" />
+      <module name="sakai-roster2-i18n" target="1.8" />
+      <module name="sakai-roster2-tool" target="1.8" />
+      <module name="sakai-rsf" target="1.8" />
+      <module name="sakai-rsf-core" target="1.8" />
+      <module name="sakai-rsf-web" target="1.8" />
+      <module name="sakai-rsf-web-evolvers" target="1.8" />
+      <module name="sakai-rsf-web-templates" target="1.8" />
+      <module name="sakai-rsf-web-test" target="1.8" />
+      <module name="sakai-rwiki-api" target="1.8" />
+      <module name="sakai-rwiki-diff" target="1.8" />
+      <module name="sakai-rwiki-impl" target="1.8" />
+      <module name="sakai-rwiki-model" target="1.8" />
+      <module name="sakai-rwiki-tool" target="1.8" />
+      <module name="sakai-rwiki-util" target="1.8" />
+      <module name="sakai-sample-provider" target="1.8" />
+      <module name="sakai-search-tool" target="1.8" />
+      <module name="sakai-sections-app-util" target="1.8" />
+      <module name="sakai-sections-tool" target="1.8" />
+      <module name="sakai-signup-tool" target="1.8" />
+      <module name="sakai-site-manage-api" target="1.8" />
+      <module name="sakai-site-manage-group-helper" target="1.8" />
+      <module name="sakai-site-manage-group-section-role-helper" target="1.8" />
+      <module name="sakai-site-manage-group-section-role-helper-pack" target="1.8" />
+      <module name="sakai-site-manage-hbm" target="1.8" />
+      <module name="sakai-site-manage-impl" target="1.8" />
+      <module name="sakai-site-manage-link-helper" target="1.8" />
+      <module name="sakai-site-manage-participant-helper" target="1.8" />
+      <module name="sakai-site-manage-tool" target="1.8" />
+      <module name="sakai-site-manage-util" target="1.8" />
+      <module name="sakai-site-pageorder-helper" target="1.8" />
+      <module name="sakai-syllabus-api" target="1.8" />
+      <module name="sakai-syllabus-hbm" target="1.8" />
+      <module name="sakai-syllabus-impl" target="1.8" />
+      <module name="sakai-syllabus-tool" target="1.8" />
+      <module name="sakai-taggable-api" target="1.8" />
+      <module name="sakai-taggable-hbm" target="1.8" />
+      <module name="sakai-taggable-impl" target="1.8" />
+      <module name="sakai-unboundid-provider" target="1.8" />
+      <module name="sakai-user-tool-admin-prefs" target="1.8" />
+      <module name="sakai-user-tool-prefs" target="1.8" />
+      <module name="sakai-userdetail-provider" target="1.8" />
+      <module name="sakai-usermembership-api" target="1.8" />
+      <module name="sakai-usermembership-impl" target="1.8" />
+      <module name="sakai-usermembership-tool" target="1.8" />
+      <module name="sakai-velocity-tool" target="1.8" />
+      <module name="sakai-velocity-tool-api" target="1.8" />
+      <module name="sakai-velocity-util" target="1.8" />
+      <module name="sakai-web-api" target="1.8" />
+      <module name="sakai-web-impl" target="1.8" />
+      <module name="sakai-web-portlet" target="1.8" />
+      <module name="sakai-web-portlet-basiclti" target="1.8" />
+      <module name="sakai-web-tool" target="1.8" />
+      <module name="sakai-ws" target="1.8" />
+      <module name="samigo" target="1.8" />
+      <module name="samigo-api" target="1.8" />
+      <module name="samigo-app" target="1.8" />
+      <module name="samigo-cp" target="1.8" />
+      <module name="samigo-hibernate" target="1.8" />
+      <module name="samigo-impl" target="1.8" />
+      <module name="samigo-import" target="1.8" />
+      <module name="samigo-pack" target="1.8" />
+      <module name="samigo-qti" target="1.8" />
+      <module name="samigo-services" target="1.8" />
+      <module name="samlite-impl" target="1.8" />
+      <module name="scheduler" target="1.8" />
+      <module name="scheduler-api" target="1.8" />
+      <module name="scheduler-component" target="1.8" />
+      <module name="scheduler-component-shared" target="1.8" />
+      <module name="scheduler-events-model" target="1.8" />
+      <module name="scheduler-test-component" target="1.8" />
+      <module name="scheduler-test-component-shared" target="1.8" />
+      <module name="scheduler-tool" target="1.8" />
+      <module name="scheduler-utils" target="1.8" />
+      <module name="scoring-service" target="1.8" />
+      <module name="scoring-service-api" target="1.8" />
+      <module name="scoring-service-impl" target="1.8" />
+      <module name="search" target="1.8" />
+      <module name="search-api" target="1.8" />
+      <module name="search-impl" target="1.8" />
+      <module name="search-model" target="1.8" />
+      <module name="search-test" target="1.8" />
+      <module name="search-test-1.7" target="1.7" />
+      <module name="search-util" target="1.8" />
+      <module name="sections" target="1.8" />
+      <module name="sections-api" target="1.8" />
+      <module name="sections-base" target="1.8" />
+      <module name="sections-impl" target="1.8" />
+      <module name="sections-model" target="1.8" />
+      <module name="shared-i18n-bundles" target="1.8" />
+      <module name="shortenedurl" target="1.8" />
+      <module name="shortenedurl-api" target="1.8" />
+      <module name="shortenedurl-impl" target="1.8" />
+      <module name="signup" target="1.8" />
+      <module name="signup-api" target="1.8" />
+      <module name="signup-impl" target="1.8" />
+      <module name="simple-rss-portlet" target="1.8" />
+      <module name="site" target="1.8" />
+      <module name="sitemanage" target="1.8" />
+      <module name="sitestats" target="1.8" />
+      <module name="sitestats-api" target="1.8" />
+      <module name="sitestats-bundle" target="1.8" />
+      <module name="sitestats-impl" target="1.8" />
+      <module name="sitestats-impl-hib" target="1.8" />
+      <module name="sitestats-tool" target="1.8" />
+      <module name="syllabus-base" target="1.8" />
+      <module name="taggable" target="1.8" />
+      <module name="tags-api" target="1.8" />
+      <module name="tags-base" target="1.8" />
+      <module name="tags-impl" target="1.8" />
+      <module name="tags-tool" target="1.8" />
+      <module name="textarea-base" target="1.8" />
+      <module name="tool" target="1.8" />
+      <module name="user" target="1.8" />
+      <module name="user-util" target="1.8" />
+      <module name="userauditservice" target="1.8" />
+      <module name="userauditservice-api" target="1.8" />
+      <module name="userauditservice-impl" target="1.8" />
+      <module name="userauditservice-tool" target="1.8" />
+      <module name="userauditservice-util" target="1.8" />
+      <module name="usermembership-base" target="1.8" />
+      <module name="velocity" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="web-base" target="1.8" />
+      <module name="webcomponents" target="1.8" />
+      <module name="webjars" target="1.8" />
+      <module name="webservices" target="1.8" />
+      <module name="wiki" target="1.8" />
+      <module name="x" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

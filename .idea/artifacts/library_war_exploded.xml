@@ -1,0 +1,70 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="library:war exploded">
+    <output-path>$PROJECT_DIR$/library/target/library-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>library</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="library" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: org.tuckey:urlrewritefilter:4.0.3" />
+          <element id="library" level="project" name="Maven: org.webjars:codemirror:5.41.0" />
+          <element id="library" level="project" name="Maven: org.webjars:ckeditor:4.11.1" />
+          <element id="library" level="project" name="Maven: org.webjars:ckeditor-autosave:0.18.1" />
+          <element id="library" level="project" name="Maven: org.webjars:ckeditor-wordcount:1.17.4" />
+          <element id="library" level="project" name="Maven: org.webjars:ckeditor-image2:4.11.1" />
+          <element id="library" level="project" name="Maven: org.webjars:dropzone:5.5.0" />
+          <element id="library" level="project" name="Maven: org.webjars:qtip2:3.0.3" />
+          <element id="library" level="project" name="Maven: org.webjars:handlebars:4.0.6" />
+          <element id="library" level="project" name="Maven: org.webjars:momentjs:2.24.0" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery:1.12.4" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery-migrate:1.4.1" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery-ui:1.12.1" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery-ui-themes:1.12.1" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery-ui-touch-punch:0.2.3-2" />
+          <element id="library" level="project" name="Maven: org.webjars:bootstrap:3.3.7" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery-blockui:2.65" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:jquery-i18n-properties:1.2.2" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:jquery:3.4.1" />
+          <element id="library" level="project" name="Maven: org.webjars:pnotify:3.2.1" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:elfinder:2.1.42" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:fontawesome:4.7.0" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:cropper:4.0.0" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:cropperjs:1.4.3" />
+          <element id="library" level="project" name="Maven: org.webjars:select2:4.0.5" />
+          <element id="library" level="project" name="Maven: org.webjars:fullcalendar:3.9.0" />
+          <element id="library" level="project" name="Maven: org.webjars:datatables:1.10.19" />
+          <element id="library" level="project" name="Maven: org.webjars:bootstrap-multiselect:0.9.15" />
+          <element id="library" level="project" name="Maven: org.webjars.bower:jquery.tablesorter:2.27.7" />
+          <element id="library" level="project" name="Maven: org.webjars.bowergithub.noelboss:featherlight:1.7.13" />
+          <element id="library" level="project" name="Maven: org.webjars:awesomplete:1.1.4" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:mathjs:6.0.2" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:javascript-natural-sort:0.7.1" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:fraction.js:4.0.12" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:escape-latex:1.2.0" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:decimal.js:10.2.0" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:tiny-emitter:2.1.0" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:seed-random:2.2.0" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:typed-function:1.1.0" />
+          <element id="library" level="project" name="Maven: org.webjars.npm:complex.js:2.0.11" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/library/target/library-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="library/web/Web" />
+      <element id="artifact" artifact-name="sakai-fck-connector:war exploded" />
+    </root>
+  </artifact>
+</component>

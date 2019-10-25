@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="oauth-tool:war exploded">
+    <output-path>$PROJECT_DIR$/oauth/tool/target/oauth-tool-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>oauth-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="oauth-tool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-spring:7.6.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-core:7.6.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-request:7.6.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-util:7.6.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-ioc:7.6.0" />
+          <element id="library" level="project" name="Maven: cglib:cglib:3.1" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-util:5.0.3" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-tree:5.0.3" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.0.3" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/oauth/tool/target/oauth-tool-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="oauth-tool/web/Web" />
+    </root>
+  </artifact>
+</component>

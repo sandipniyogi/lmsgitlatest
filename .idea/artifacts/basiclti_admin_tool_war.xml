@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="basiclti-admin-tool:war">
+    <output-path>$PROJECT_DIR$/basiclti/basiclti-tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>basiclti-admin-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="basiclti-admin-tool-19.2.war">
+      <element id="artifact" artifact-name="basiclti-admin-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

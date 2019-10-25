@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="courier-tool:war">
+    <output-path>$PROJECT_DIR$/courier/courier-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>courier-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="courier-tool-19.2.war">
+      <element id="artifact" artifact-name="courier-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mailsender-tool:war">
+    <output-path>$PROJECT_DIR$/mailsender/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mailsender-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mailsender-tool-19.2.war">
+      <element id="artifact" artifact-name="mailsender-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

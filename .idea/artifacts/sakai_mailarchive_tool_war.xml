@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-mailarchive-tool:war">
+    <output-path>$PROJECT_DIR$/mailarchive/mailarchive-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-mailarchive-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-mailarchive-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-mailarchive-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

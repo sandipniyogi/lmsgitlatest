@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mycalendar:war">
+    <output-path>$PROJECT_DIR$/mycalendar/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mycalendar</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mycalendar-19.2.war">
+      <element id="artifact" artifact-name="mycalendar:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="commons-tool:war">
+    <output-path>$PROJECT_DIR$/commons/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>commons-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="commons-tool-19.2.war">
+      <element id="artifact" artifact-name="commons-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

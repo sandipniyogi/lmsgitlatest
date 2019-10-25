@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-roster2-tool:war">
+    <output-path>$PROJECT_DIR$/roster2/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-roster2-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-roster2-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-roster2-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,47 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="imsoidc:war exploded">
+    <output-path>$PROJECT_DIR$/basiclti/basiclti-oidc/target/imsoidc-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>imsoidc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="imsoidc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="basiclti-util-19.2.jar">
+            <element id="module-output" name="basiclti-util" />
+          </element>
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+          <element id="library" level="project" name="Maven: io.jsonwebtoken:jjwt-api:0.10.5" />
+          <element id="library" level="project" name="Maven: com.nimbusds:nimbus-jose-jwt:4.3.1" />
+          <element id="library" level="project" name="Maven: net.jcip:jcip-annotations:1.0" />
+          <element id="archive" name="basiclti-common-19.2.jar">
+            <element id="module-output" name="basiclti-common" />
+          </element>
+          <element id="archive" name="entitybroker-utils-19.2.jar">
+            <element id="module-output" name="entitybroker-utils" />
+          </element>
+          <element id="library" level="project" name="Maven: org.azeckoski:reflectutils:0.9.20" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="archive" name="sakai-portal-util-19.2.jar">
+            <element id="module-output" name="sakai-portal-util" />
+          </element>
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/basiclti/basiclti-oidc/target/imsoidc-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="imsoidc/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-login-tool:war">
+    <output-path>$PROJECT_DIR$/login/login-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-login-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-login-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-login-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

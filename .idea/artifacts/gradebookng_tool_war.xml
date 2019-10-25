@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gradebookng-tool:war">
+    <output-path>$PROJECT_DIR$/gradebookng/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gradebookng-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gradebookng-tool-19.2.war">
+      <element id="artifact" artifact-name="gradebookng-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

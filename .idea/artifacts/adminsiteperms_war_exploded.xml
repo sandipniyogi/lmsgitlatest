@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="adminsiteperms:war exploded">
+    <output-path>$PROJECT_DIR$/site/admin-perms-tool/target/adminsiteperms</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>adminsiteperms</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="adminsiteperms" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.sakaiproject:sakai-jsp-adapter:0.10-K1" />
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.19.RELEASE" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.10" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/site/admin-perms-tool/target/adminsiteperms/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="adminsiteperms/web/Web" />
+    </root>
+  </artifact>
+</component>

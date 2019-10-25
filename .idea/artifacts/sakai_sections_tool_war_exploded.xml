@@ -1,0 +1,73 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sakai-sections-tool:war exploded">
+    <output-path>$PROJECT_DIR$/sections/sections-app/target/sakai-sections-tool-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>sakai-sections-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sakai-sections-tool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="archive" name="sakai-sections-app-util-19.2.jar">
+            <element id="module-output" name="sakai-sections-app-util" />
+          </element>
+          <element id="archive" name="jsf-tool-19.2.jar">
+            <element id="module-output" name="jsf-tool" />
+          </element>
+          <element id="archive" name="jsf-spreadsheet-19.2.jar">
+            <element id="module-output" name="jsf-spreadsheet" />
+          </element>
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:4.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:4.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:4.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:3.0.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.18" />
+          <element id="library" level="project" name="Maven: com.github.virtuald:curvesapi:1.05" />
+          <element id="library" level="project" name="Maven: com.lowagie:itext:2.1.7" />
+          <element id="archive" name="jsf-app-19.2.jar">
+            <element id="module-output" name="jsf-app" />
+          </element>
+          <element id="library" level="project" name="Maven: org.apache.myfaces.core:myfaces-api:1.1.10" />
+          <element id="library" level="project" name="Maven: org.apache.myfaces.core:myfaces-impl:1.1.10" />
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:2.1" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.7.0" />
+          <element id="library" level="project" name="Maven: commons-el:commons-el:1.0" />
+          <element id="library" level="project" name="Maven: org.apache.myfaces.tomahawk:tomahawk:1.1.14" />
+          <element id="library" level="project" name="Maven: commons-validator:commons-validator:1.6" />
+          <element id="library" level="project" name="Maven: oro:oro:2.0.8" />
+          <element id="library" level="project" name="Maven: batik:batik-awt-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-gui-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-ext:1.6-1" />
+          <element id="archive" name="myfaces-widgets-depend-19.2.pom">
+            <element id="module-output" name="myfaces-widgets-depend" />
+          </element>
+          <element id="archive" name="jsf-widgets-19.2.jar">
+            <element id="module-output" name="jsf-widgets" />
+          </element>
+          <element id="archive" name="sakai-portal-util-19.2.jar">
+            <element id="module-output" name="sakai-portal-util" />
+          </element>
+          <element id="archive" name="myfaces-widgets-19.2.jar">
+            <element id="module-output" name="myfaces-widgets" />
+          </element>
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/sections/sections-app/target/sakai-sections-tool-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sakai-sections-tool/web/Web" />
+    </root>
+  </artifact>
+</component>

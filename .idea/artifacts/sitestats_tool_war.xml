@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sitestats-tool:war">
+    <output-path>$PROJECT_DIR$/sitestats/sitestats-tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sitestats-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sitestats-tool-19.2.war">
+      <element id="artifact" artifact-name="sitestats-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

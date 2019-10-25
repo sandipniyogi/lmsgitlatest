@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="samigo-app:war">
+    <output-path>$PROJECT_DIR$/samigo/samigo-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>samigo-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="samigo-app-19.2.war">
+      <element id="artifact" artifact-name="samigo-app:war exploded" />
+    </root>
+  </artifact>
+</component>

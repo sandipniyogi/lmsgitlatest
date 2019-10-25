@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dav:war">
+    <output-path>$PROJECT_DIR$/dav/dav/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dav</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dav-19.2.war">
+      <element id="artifact" artifact-name="dav:war exploded" />
+    </root>
+  </artifact>
+</component>

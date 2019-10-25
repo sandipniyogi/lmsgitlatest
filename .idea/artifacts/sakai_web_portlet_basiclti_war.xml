@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-web-portlet-basiclti:war">
+    <output-path>$PROJECT_DIR$/basiclti/web-ifp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-web-portlet-basiclti</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-web-portlet-basiclti-19.2.war">
+      <element id="artifact" artifact-name="sakai-web-portlet-basiclti:war exploded" />
+    </root>
+  </artifact>
+</component>

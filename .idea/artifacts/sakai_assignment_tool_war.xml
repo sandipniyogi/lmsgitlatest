@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-assignment-tool:war">
+    <output-path>$PROJECT_DIR$/assignment/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-assignment-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-assignment-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-assignment-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

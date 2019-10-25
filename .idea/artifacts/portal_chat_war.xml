@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="portal-chat:war">
+    <output-path>$PROJECT_DIR$/portal/portal-chat/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>portal-chat</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="portal-chat-19.2.war">
+      <element id="artifact" artifact-name="portal-chat:war exploded" />
+    </root>
+  </artifact>
+</component>

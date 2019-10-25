@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="emailtemplateservice-tool:war">
+    <output-path>$PROJECT_DIR$/emailtemplateservice/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>emailtemplateservice-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="emailtemplateservice-tool-19.2.war">
+      <element id="artifact" artifact-name="emailtemplateservice-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

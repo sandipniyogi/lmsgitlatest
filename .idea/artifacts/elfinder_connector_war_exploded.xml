@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="elfinder-connector:war exploded">
+    <output-path>$PROJECT_DIR$/textarea/elfinder-sakai/target/elfinder-connector-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>elfinder-connector</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="elfinder-connector" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.github.bluejoe2008:elfinder-servlet-2:classes:1.2" />
+          <element id="library" level="project" name="Maven: org.json:json:20090211" />
+          <element id="library" level="project" name="Maven: com.mortennobel:java-image-scaling:0.8.6" />
+          <element id="library" level="project" name="Maven: com.jhlabs:filters:2.0.235" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4.5" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/textarea/elfinder-sakai/target/elfinder-connector-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="elfinder-connector/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-search-tool:war">
+    <output-path>$PROJECT_DIR$/search/search-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-search-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-search-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-search-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

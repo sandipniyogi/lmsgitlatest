@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="portal-charon:war">
+    <output-path>$PROJECT_DIR$/portal/portal-charon/charon/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>portal-charon</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="portal.war">
+      <element id="artifact" artifact-name="portal-charon:war exploded" />
+    </root>
+  </artifact>
+</component>

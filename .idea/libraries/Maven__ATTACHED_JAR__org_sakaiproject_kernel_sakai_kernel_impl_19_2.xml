@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven: ATTACHED-JAR: org.sakaiproject.kernel:sakai-kernel-impl:19.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kernel/kernel-impl/target/sakai-kernel-impl-19.2/WEB-INF/lib/sakai-kernel-impl-19.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

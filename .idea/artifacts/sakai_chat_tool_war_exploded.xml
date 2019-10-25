@@ -1,0 +1,71 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sakai-chat-tool:war exploded">
+    <output-path>$PROJECT_DIR$/chat/chat-tool/tool/target/sakai-chat-tool-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>sakai-chat-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sakai-chat-tool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="archive" name="sakai-mergedlist-util-19.2.jar">
+            <element id="module-output" name="sakai-mergedlist-util" />
+          </element>
+          <element id="archive" name="sakai-velocity-tool-19.2.jar">
+            <element id="module-output" name="sakai-velocity-tool" />
+          </element>
+          <element id="archive" name="sakai-velocity-util-19.2.jar">
+            <element id="module-output" name="sakai-velocity-util" />
+          </element>
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.6.4" />
+          <element id="library" level="project" name="Maven: velocity-tools:velocity-tools:1.4" />
+          <element id="archive" name="jsf2-tool-19.2.jar">
+            <element id="module-output" name="jsf2-tool" />
+          </element>
+          <element id="archive" name="jsf2-app-19.2.jar">
+            <element id="module-output" name="jsf2-app" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.faces:javax.faces-api:2.3" />
+          <element id="archive" name="sakai-portal-util-19.2.jar">
+            <element id="module-output" name="sakai-portal-util" />
+          </element>
+          <element id="archive" name="jsf2-widgets-sun-depend-19.2.pom">
+            <element id="module-output" name="jsf2-widgets-sun-depend" />
+          </element>
+          <element id="archive" name="jsf2-widgets-sun-19.2.jar">
+            <element id="module-output" name="jsf2-widgets-sun" />
+          </element>
+          <element id="library" level="project" name="Maven: org.glassfish:javax.faces:2.3.9" />
+          <element id="archive" name="jsf2-widgets-19.2.jar">
+            <element id="module-output" name="jsf2-widgets" />
+          </element>
+          <element id="library" level="project" name="Maven: org.apache.myfaces.tomahawk:tomahawk21:1.1.14" />
+          <element id="library" level="project" name="Maven: commons-validator:commons-validator:1.6" />
+          <element id="library" level="project" name="Maven: oro:oro:2.0.8" />
+          <element id="library" level="project" name="Maven: batik:batik-awt-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-gui-util:1.6-1" />
+          <element id="library" level="project" name="Maven: batik:batik-ext:1.6-1" />
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:2.1" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.7.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.jboss.weld.servlet:weld-servlet-shaded:3.1.0.Final" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/chat/chat-tool/tool/target/sakai-chat-tool-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sakai-chat-tool/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pasystem-tool:war exploded">
+    <output-path>$PROJECT_DIR$/pasystem/pasystem-tool/tool/target/pasystem-tool-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>pasystem-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pasystem-tool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.github.jknack:handlebars:4.0.6" />
+          <element id="library" level="project" name="Maven: org.antlr:antlr4-runtime:4.5.1-1" />
+          <element id="library" level="project" name="Maven: org.mozilla:rhino:1.7R4" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.8.1" />
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/pasystem/pasystem-tool/tool/target/pasystem-tool-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="pasystem-tool/web/Web" />
+    </root>
+  </artifact>
+</component>

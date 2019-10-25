@@ -1,0 +1,13 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupDelProducer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupImportStep1Producer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/impl/SiteManageGroupSectionRoleHandler.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/CreateJoinableGroupsProducer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupEditProducer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupAutoCreateProducer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/impl/ImportedGroup.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupEditViewParameters.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupListProducer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupAutoCreateViewParameters.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupImportViewParameters.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/CreateJoinableGroupViewParameters.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/site-manage/site-manage-group-section-role-helper/tool/src/java/org/sakaiproject/site/tool/helper/managegroupsectionrole/rsf/GroupImportStep2Producer.java

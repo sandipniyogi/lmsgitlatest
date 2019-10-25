@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-rsf-web-templates:war">
+    <output-path>$PROJECT_DIR$/rsf/sakai-rsf-web/templates/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-rsf-web-templates</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-rsf-web-templates-19.2.war">
+      <element id="artifact" artifact-name="sakai-rsf-web-templates:war exploded" />
+    </root>
+  </artifact>
+</component>

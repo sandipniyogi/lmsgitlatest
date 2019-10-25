@@ -1,0 +1,9 @@
+org/sakaiproject/lti/entityprovider/LTIEntityProvider.class
+org/sakaiproject/lti13/LineItemUtil.class
+org/sakaiproject/lti13/LineItemUtil$1.class
+org/sakaiproject/lti2/SakaiLTI2Services.class
+org/sakaiproject/lti2/LTI2Service.class
+org/sakaiproject/blti/ServiceServlet.class
+org/sakaiproject/lti/entityprovider/LTIMapEntity.class
+org/sakaiproject/lti13/LTI13Servlet.class
+org/sakaiproject/lti/entityprovider/LTIListEntity.class

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imsoidc:war">
+    <output-path>$PROJECT_DIR$/basiclti/basiclti-oidc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>imsoidc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="imsoidc-19.2.war">
+      <element id="artifact" artifact-name="imsoidc:war exploded" />
+    </root>
+  </artifact>
+</component>

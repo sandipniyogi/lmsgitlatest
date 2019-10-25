@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sakai-content-tool:war">
+    <output-path>$PROJECT_DIR$/content/content-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sakai-content-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sakai-content-tool-19.2.war">
+      <element id="artifact" artifact-name="sakai-content-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

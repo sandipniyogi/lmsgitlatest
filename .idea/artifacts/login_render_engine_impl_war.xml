@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="login-render-engine-impl:war">
+    <output-path>$PROJECT_DIR$/login/login-render-engine-impl/impl/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>login-render-engine-impl</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="login-render-engine-impl-19.2.war">
+      <element id="artifact" artifact-name="login-render-engine-impl:war exploded" />
+    </root>
+  </artifact>
+</component>

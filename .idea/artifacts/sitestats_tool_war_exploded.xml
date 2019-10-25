@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sitestats-tool:war exploded">
+    <output-path>$PROJECT_DIR$/sitestats/sitestats-tool/target/sitestats-tool-19.2</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>sitestats-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sitestats-tool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="sakai-kernel-util-19.2.jar">
+            <element id="module-output" name="sakai-kernel-util" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="archive" name="entitybroker-utils-19.2.jar">
+            <element id="module-output" name="entitybroker-utils" />
+          </element>
+          <element id="library" level="project" name="Maven: org.azeckoski:reflectutils:0.9.20" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="archive" name="sitestats-bundle-19.2.jar">
+            <element id="module-output" name="sitestats-bundle" />
+          </element>
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-core:6.26.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-util:6.26.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-request:6.26.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-extensions:6.26.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-ioc:6.26.0" />
+          <element id="library" level="project" name="Maven: cglib:cglib:2.2.2" />
+          <element id="library" level="project" name="Maven: asm:asm:3.3.1" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-spring:6.26.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-datetime:6.26.0" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-devutils:6.26.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/sitestats/sitestats-tool/target/sitestats-tool-19.2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sitestats-tool/web/Web" />
+    </root>
+  </artifact>
+</component>

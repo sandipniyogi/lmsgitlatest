@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: rome:rome:1.0-sakai">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/rome/1.0-sakai/rome-1.0-sakai.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/rome/1.0-sakai/rome-1.0-sakai-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/rome/1.0-sakai/rome-1.0-sakai-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

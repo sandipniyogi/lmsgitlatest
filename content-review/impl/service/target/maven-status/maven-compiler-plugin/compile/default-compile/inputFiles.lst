@@ -1,0 +1,10 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/ContentReviewFederatedServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/ContentReviewQueueServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/BaseContentReviewService.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/jobs/ContentReviewReports.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/advisors/SitePropertyAdvisor.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/NoOpContentReviewService.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/jobs/ContentReviewQueue.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/advisors/DefaultSiteAdvisor.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/jobs/ContentReviewRosterSync.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/content-review/impl/service/src/main/java/org/sakaiproject/contentreview/service/advisors/SiteCourseTypeAdvisor.java

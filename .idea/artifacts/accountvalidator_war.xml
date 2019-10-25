@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="accountvalidator:war">
+    <output-path>$PROJECT_DIR$/reset-pass/account-validator-tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>accountvalidator</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="accountvalidator-19.2.war">
+      <element id="artifact" artifact-name="accountvalidator:war exploded" />
+    </root>
+  </artifact>
+</component>

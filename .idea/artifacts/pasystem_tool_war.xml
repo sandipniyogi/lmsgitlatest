@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pasystem-tool:war">
+    <output-path>$PROJECT_DIR$/pasystem/pasystem-tool/tool/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pasystem-tool</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pasystem-tool-19.2.war">
+      <element id="artifact" artifact-name="pasystem-tool:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,17 @@
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/job/CmSynchronizer.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceHibernateImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/aop/CourseManagementAdministrationAuthzAdvisor.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/facade/Authentication.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseSitePublishServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/job/ClassPathCMSyncJob.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/exception/PermissionException.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceFederatedImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/IndexGenerator.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceSampleChainImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/DataLoader.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/SiteTitleAdvisorCMS.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementAdministrationHibernateImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseSiteRemovalServiceImpl.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/SampleDataLoader.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/facade/SakaiAuthentication.java
+/Users/sandipniyogi/Documents/jiri/sakai/sakai/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/facade/TestAuthentication.java
