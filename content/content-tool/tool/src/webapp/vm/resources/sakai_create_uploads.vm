@@ -181,7 +181,7 @@ Dropzone.options.fileUploader = {
     parallelUploads: 1,
     uploadMultiple: false,
     addRemoveLinks: true,
-    maxFilesize: $uploadMaxSize, // MB
+    //maxFilesize: $uploadMaxSize, // MB
     previewTemplate: document.getElementById('preview-template').innerHTML,
     dictFallbackMessage: "$tlang.getString("dragndrop.dictFallbackMessage")",
     dictFallbackText: "$tlang.getString("dragndrop.dictFallbackText")",
